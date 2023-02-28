@@ -1,0 +1,607 @@
+Title:,Back 4 Blood Card Compendium & Codex,,,On Desktop? Check out Filter Views,Note: Versus and Campaign Cards to be separately listed even if they have the same effects,,,
+Compendium Ver:,12-1-23,Created by:,Controls:,Use CTRL+F to search cards,Notice any mistakes or have info to possibly add? Leave a comment. ,,,
+Game Version:,1.000.011 (06/12/22),Spikeyroxas,PC/PS/XB,,,Obtained from:,,
+Deck Category,Type,Card Affinity,Team Effect,Name (Original Name/Other Info),Effect Description (Other info),Suppy Line,Damage Type,Copper Cost
+Campaign,Offense,Fortune,No,Admin Reload (Gunslinger),"When you stow your weapon, it reloads.",The Stilts (2),-,N/A
+Swarm,Offense ,Fortune ,No,Admin Reload (Gunslinger),"When you stow your weapon, it reloads.",Available from start,-,500
+Campaign,Offense,Reflex,No,Adrenaline Fueled,"When you kill an enemy, gain 5 Stamina instantly and an additional 7 Stamina over 7 seconds, stacking up to 5 times.",Accomplishment,-,N/A
+Swarm,Offense,Reflex,No,Adrenaline Fueled,"When you kill an enemy, gain 5 Stamina instantly and an additional 7 Stamina over 7 seconds, stacking up to 5 times.",Available from start,-,
+Campaign,Ability,Fortune ,No,AI Assistant Module,"5% Item Reuse Chance that increases by 10% after every item used. Resets on Reuse. Gadget Cost: 20 Sniper Rifle Ammo. REPLACES: Quick Slot, FRAGILE (Effects removed after recieving damage)",Duffel Bag Reward / Children of the Worm Expansion,Flat,0
+Campaign,Offense,Discipline ,No,Ammo,"+5% Ammo Capacity, +1% Damage",Available when decks empty / Free Card Shrine,Flat,0
+Swarm,Offense,Discipline ,No,Ammo,"+5% Ammo Capacity, +1% Damage",Available when decks empty / Free Card Shrine,-,500
+Campaign,Offense ,Discipline,No,Ammo Belt,"+50% Ammo Capacity, +15% Reload Speed",Paul's Alley,-,N/A
+Burn,Offense,Burn,Yes,Ammo Drop,Team Effects: Each Cleaner restores and increases their maximum ammo by 25%.,Roving Merchants,Flat,500
+Campaign,Offense ,Discipline ,Yes,Ammo For All (Team Ammo),"Team Effects: +10% Team Ammo Capacity, +3.5% Team Damage",Paul's Alley / Bot Deck,Flat,N/A
+Swarm,Offense ,Discipline ,Yes,Ammo For All (Team Ammo),"Team Effects: +10% Team Ammo Capacity, +3.5% Team Damage",Available from start,-,500
+Campaign,Offense ,Discipline ,No,Ammo Mule,"+75% Ammo Capacity, -5% Move Speed",The Stilts,-,500
+Swarm,Offense ,Discipline ,No,Ammo Mule,"+75% Ammo Capacity, -5% Move Speed",Available from start,Bullet,500
+Campaign,Offense ,Discipline,No,Ammo Pouch,"+25% Ammo Capacity, +2.5% Bullet Damage",The Strip,Bullet,N/A
+Swarm,Offense ,Discipline ,No,Ammo Pouch,"+25% Ammo Capacity, +2.5% Bullet Damage",Available from start,-,N/A
+Campaign,Utility,Discipline ,No,Ammo Scavenger,"You can sense Nearby Ammo, 1 additional Ammo crate spawn.",Accomplishment,-,500
+Campaign,Offense,Fortune,No,Ammo Stash (Resourceful),Your secondary weapons have Unlimited Ammo. Your secondary weapons reload 20% Slower,Bridge Town (2),-,N/A
+Swarm,Offense,Fortune,No,Ammo Stash (Resourceful),Your secondary weapons have Unlimited Ammo. Your secondary weapons reload 20% Slower,Available from start,-,500
+Campaign,Defense,Discipline ,Yes,Amped Up,"Team Effects: When a horde is triggered, your team recovers 20 Health.",The Furnace (2) / Bot Deck,-,500
+Campaign,Defense,Discipline,No,Antibiotic Ointment,"+25% Healing Efficiency, When you use a medical Accessory, the target heals 20 Temporary Health.",Starter Deck,-,N/A
+Swarm,Defense ,Discipline ,No,Antibiotic Ointment,"+25% Healing Efficiency, When you use a medical Accessory, the target heals 20 Temporary Health.",Available from start,-,N/A
+Corruption,Ridden,Mutation,-,Armored Bruisers,Bruisers can take a lot of punishment. Keep moving and don't let them get close. Armored (Weakspots are covered by durable Armor.),N/A,-,N/A
+Corruption,Ridden,Mutation,-,Armored Crushers,Getting crushed is the worst way to die. Attack the Crusher to free your teammates. Armored (Weakspots are covered by durable Armor.),N/A,-,N/A
+Corruption,Ridden,Mutation,-,Armored Exploders,Stay away from these two-legged death bombs. Armored (Weakspots are covered by durable Armor.),N/A,-,N/A
+Corruption,Ridden,Mutation,-,Armored Ferocious Rippers,"This Warped Ridden flings spiked cysts in a line from his massive arm to attack from afar. Armored (Weakspots are covered by durable Armor.) Ferocious (+25% Health, +50% Damage), Destruction (Hurls spiked balls in 3 wide lines. Find the gap between lines.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Armored Ferocious Shredders,"This subterranean Warped Ridden launches adhesive tendrils that pull Cleaners toward it, applying the Pus Covered status. Armored (Weakspots are covered by durable Armor.) Ferocious (+25% Health, +50% Damage), Viscous (Cleaners hit by Shredder Implosions are slower by 30%.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Armored Ferocious Urchins,"This subterranean Warped Ridden hurls Urchin Mines that damage and slow Cleaners. Damage the Mines to clear them! Armored (Weakspots are covered by durable Armor.) Ferocious (+25% Health, +50% Damage), Paralytic (Cleaners hit by the Urchin Mine are slowed even further.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Armored Hockers,Melee teammates to free them from Hocker pins. Armored (Weakspots are covered by durable Armor.),N/A,-,N/A
+Corruption,Ridden,Ridden,-,Armored Joggers,"SWAT armor was meant to protect against bullets, not devil worms. These Ridden are going to be harder to take down.",N/A,,
+Corruption,Ridden,Mutation,-,Armored Lobbers,The Lobber hurls sticky bombs that damage and burn any Cleaners caught in its large blast radius. Mind your ammo and give these explosives a wide berth! Armored (Weakspots are covered by durable Armor.) Sear (Ammo on Cleaners caught in the blast radius catches fire and becomes useless. Cleaners lose 10% of their total ammo.),N/A,-,N/A
+Corruption,Ridden,Mutation,-,Armored Retches,Acidic spew leaves dangerous bile pools. Armored (Weakspots are covered by durable Armor.),N/A,-,N/A
+Corruption,Ridden,Ridden,-,Armored Ridden,"SWAT armor was meant to protect against bullets, not devil worms. These Ridden are going to be harder to take down.",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Armored Rippers,This Warped Ridden flings spiked cysts in a line from his massive arm to attack from afar. Armored (Weakspots are covered by durable Armor.),N/A,-,N/A
+Corruption,Ridden,Ridden,-,Armored Runners,"SWAT armor was meant to protect against bullets, not devil worms. These Ridden are going to be harder to take down.",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Armored Shredders,"This subterranean Warped Ridden launches adhesive tendrils that pull Cleaners toward it, applying the Pus Covered status. Armored (Weakspots are covered by durable Armor.)",N/A,-,N/A
+Corruption,Ridden,Ridden,-,Armored Sprinters,"SWAT armor was meant to protect against bullets, not devil worms. These Ridden are going to be harder to take down.",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Armored Stalkers,A grabbed teammate is a dead teammate. Quickly kill the Stalker to free teammates. Armored (Weakspots are covered by durable Armor.),N/A,-,N/A
+Corruption,Ridden,Mutation,-,Armored Stingers,Stinger spit toxic spittle from long distancs or high vantage points. Armored (Weakspots are covered by durable Armor.),N/A,,
+Corruption,Ridden,Mutation,-,Armored Swarmers,Lurking Swarmers send out Clouds of insects from behind cover to track down Cleaners. Burn these pests and hunt down the Swarmer before you're consumed. Armored (Weakspots are covered by durable Armor.) Pesky (The Swarm Cloud applies a stacking 10% Use Speed Debuff) Culling (Swarm Clouds seek out Cleaners with the lowest amount of Health),N/A,-,N/A
+Corruption,Ridden,Mutation,-,Armored Tallboys,These towering mutations can take alot of punishment and surge into powerful slam attacks. Aim for the weakspot or use fire to take them out quickly. Armored (Weakspots are covered by durable Armor.),N/A,-,N/A
+Corruption,Ridden,Mutation,-,Armored Urchins,This subterranean Warped Ridden hurls Urchin Mines that damage and slow Cleaners. Damage the Mines to clear them! Armored (Weakspots are covered by durable Armor.),N/A,,
+Corruption,Ridden,Mutation,-,Armored Wailers,This minelayer births Gas Sacs that track any enemies foolish enough to get close. Destory the Gas Sacs before you're overwhelmed. Armored (Weakspots are covered by durable Armor.),N/A,-,N/A
+Corruption,Ridden,Ridden,-,Armored Walkers,"SWAT armor was meant to protect against bullets, not devil worms. These Ridden are going to be harder to take down.",N/A,-,N/A
+Burn,Loot,Burn,Yes,Attachment Scavenger,Team Effects: Increase Attachments spawn this level.,The Collectors (V.1.000.008),Flat,500
+Campaign,Offense,Discipline ,Yes,Avenge the Fallen (Martyr),"Team Effects: When you or a teammate becomes incapacitated, all teammates gain 30% Damage, 20% Reload Speed, and Unlimited Ammo for 10 Seconds.",Fort Hope,-,N/A
+Corruption ,Finale,Finale,-,Awaiting Our Justice,Locate the Truck and escape through the mines. Act 5 Finale,N/A,-,500
+Campaign,Defense,Brawn,No,Battle Lust (Triumph),Melee Kills heal 1 health and 0.125 Trauma.,Available from start,-,N/A
+Swarm,Defense,Brawn,No,Battle Lust (Triumph),Melee Kills heal 1 health and 0.125 Trauma.,Available from Start,-,
+Campaign,Talent,Fortune,No,Belligerent,Gain a stacking 4% increase to Damage each time a horde is called up to 6 stacks (30 second cooldown between Hordes). Stacks are reset when a Cleaner is incapped or killed.,Duffel Bag Reward / Children of the Worm Expansion,-,500
+Campaign,Utility,Fortune ,No,Belt Clip,"+1 Quick Item Inventory, +10% Use Speed",Roving Merchants: Liberators,-,500
+Swarm,Utility,Fortune ,No,Belt Clip,"+1 Quick Item Inventory, +10% Use Speed",Available from Start,Melee,500
+Campaign,Offense ,Brawn,No,Berserker,"Each Melee kill grants 5% Melee Damage, 5% Melee Speed, and 5% Move Speed for 4 seconds.",Accomplishment,Melee,N/A
+Swarm,Offense ,Brawn,No,Berserker,"Each Melee kill grants 5% Melee Damage, 5% Melee Speed, and 5% Move Speed for 4 seconds.",Available from Start,-,N/A
+Corruption,Event,Character,-,Biohazard,Ridden deal 25% extra damage. 3 Temporary Health granted by kills. 100% Team Bolstered Health. Temporary Health decay rate increased by 200%. Fog and Kills restore some Temporary Health.,N/A,-,N/A
+Corruption,Ridden,Ridden,-,Blighted Ridden,"A Mutation has turned the Ridden blood into acid, they leave behind pools of caustic acid on death. (Pool Duration: 6 Seconds)",N/A,-,N/A
+Corruption,Ridden,Ridden,-,Blitzing,This is what remains of the living. Aim for the head to put them down quickly.,N/A,-,N/A
+Corruption,Collect,Challenge,-,Blood Samples,Find and bring the Specimen Container to the end of the level to earn +500 Copper,N/A,-,N/A
+Corruption,Survive,Challenge,-,Blood Samples - Elite,Find and bring the Specimen Container to the end of the level without any Cleaners being incapacitated to earn: +500 Copper,N/A,-,N/A
+Corruption,Survive,Challenge,-,Blood Samples - Elite (+),"Find and bring the Specimen Container to the end of the level without any Cleaners being incapacitated to earn: +500 Copper, +10 Bonus Supply Points",N/A,-,N/A
+Corruption,Survive,Challenge,-,Blood Samples - Survival,Find and bring the Specimen Container to the end of the level with all 4 Cleaners alive to earn: +500 Copper,N/A,-,N/A
+Corruption,Survive,Challenge,-,Blood Samples - Survival (+),"Find and bring the Specimen Container to the end of the level with all 4 Cleaners alive to earn: +500 Copper, +10 Bonus Supply Points",N/A,-,N/A
+Corruption,Collect,Challenge,-,Blood Samples (+),"Find and bring the Specimen Container to the end of the level to earn +500 Copper, +Bonus Supply Points",N/A,-,N/A
+Corruption ,Finale,Finale,-,Blue Dog Hollow,Collapse the mine to cutoff the source of the Ridden. Act 1 Finale,N/A,-,500
+Campaign,Defense,Brawn,No,Body Armor,+20% Trauma Resistance,Grant's Brew House,-,500
+Swarm,Defense,Brawn,No,Body Armor,+20% Trauma Resistance,Available from start,-,500
+Campaign,Talent,Brawn,No,Bodyguard,"When a teammate within 5 meters is attacked, you instead recieve 75% of that damage. Can trigger once every 5 seconds.",The Collectors (Totem Track),Explosive,500
+Campaign,Offense ,Brawn,Yes,Bomb Squad (Sapper),"1 Additional Frag Grenade spawns in each map. Team Effects: +25% Explosive Damage, +20% Explosive Resistance",The Stilts (3),-,N/A
+Corruption ,Boon,Trial of the Worm,-,Bonus Agility,"Swap Speed, ADS Speed, and Reload Speed are increased by (25%)",N/A,-,N/A
+Corruption ,Boon,Trial of the Worm,-,Bonus Currency,"Additional Copper spawns in the environment",N/A,-,N/A
+Corruption ,Boon,Trial of the Worm,-,Bonus Damage,"Damage dealt to Ridden is increased by 25%",N/A,-,N/A
+Corruption,Boon,Trial of the Worm,-,Bonus Intel,More Intel spawns in the environment.,N/A,-,N/A
+Corruption ,Boon,Trial of the Worm,-,Bonus Life and Revive Speed,All Cleaners receive 1 Extra Life and have 100% faster Revive Speed,N/A,-,N/A
+Corruption ,Boon,Trial of the Worm,-,Bonus Max Ammo,Max Ammo is increased by (25%),N/A,-,N/A
+Corruption ,Boon,Trial of the Worm,-,Bonus Trauma Resistance,Trauma Resistance is increased by (25%),N/A,-,500
+Corruption ,Kill,Boss,-,Boss Mutation,Defeat the Boss and complete the level to earn +500 Copper.,N/A,-,500
+Corruption ,Kill,Boss,-,Boss Mutation (+),Defeat the Boss and complete the level to earn +500 Copper. +Bonus Supply Points.,N/A,-,500
+Corruption ,Survive,Boss,-,Boss Mutation (Elite),Defeat the Boss and complete the level without any cleaners being incapacitated to earn +500 Copper.,N/A,-,500
+Corruption ,Survive,Boss,-,Boss Mutation (Elite+),Defeat the Boss and complete the level without any cleaners being incapacitated to earn +500 Copper. +Bonus Supply Points.,N/A,-,500
+Corruption ,Event,Boss,-,Boss Mutation (No Hope),"Beware, a dangerous Boss Mutation lurks nearby. Roaming Boss Card in No Hope Difficulty.",N/A,-,N/A
+Corruption ,Survive,Boss,-,Boss Mutation (Survival),Defeat the Boss and complete the level with all cleaners alive to earn +500 Copper.,N/A,-,500
+Corruption ,Survive,Boss,-,Boss Mutation (Survival+),Defeat the Boss and complete the level with all cleaners alive to earn +500 Copper. +Bonus Supply Points.,N/A,-,N/A
+Campaign,Utility,Fortune,No (Yes),Bounty Hunter (Trophy Hunter),"When you or your team kills a Mutation, gain 10 Copper (Up to 300 per Level).",The Crow's Nest (4) / Bot Deck,-,N/A
+Campaign,Defense,Fortune ,Yes,Box O' Bags,-10% Health. Team Effects: +1 Team Support Inventory,Grant's Brew House (2),-,500
+Campaign,Talent,Brawn,No,Bravado,"When a teammate within 15 meters recieves trauma damage, gain 15% of that amount as Trauma Health.",The Collectors (Tunnels of Terror),-,N/A
+Campaign ,Offense,Reflex,No,Brazen,"+15% Melee Stamina Efficiency, +20% Melee Attack speed, +15% Bow Stamina Efficiency, +20% Bow Attack Speed",Bridge Town (2),-,500
+Swarm,Offense,Reflex,No,Brazen,"+15% Melee Stamina Efficiency, +20% Melee Attack speed, +15% Bow Stamina Efficiency, +20% Bow Attack Speed",Available from start,-,N/A
+Corruption,Event,Character,-,Break Time,"Health set to 60. Regenerate 10 Health per second. +100% Trauma Resistance, +2 Lives, -150% Incap Bleed Damage",N/A,-,500
+Corruption,Ridden,Boss infected,-,Breaker,"Rumor is, some Cleaners beat up a Breaker, but didn't finish it.",N/A,-,
+Campaign,Mobility,Reflex,No,Breakout,Breakout: Hold [E/SQUARE/X] to free yourself from Grabs. +50% Breakout Cooldown Reduction (Base 60 seconds). 1 Second to release,Knuckle House,-,N/A
+Swarm,Utility,Reflex,No,Breakout ,Breakout: Hold [E/SQUARE/X] to free yourself from Grabs. +66% Breakout Cooldown Reduction (Base 60 seconds). 1 Second to release,Available from start,-,
+Campaign,Offense ,Brawn,No,Broadside,"Precision Kills have a 20% chance to cause Ridden to explode, dealing 15 damage to other Ridden with 4 meters.",The Furnace (2),-,500
+Corruption,Ridden,Mutation,-,Bruisers,Bruisers can take a lot of punishment. Keep moving and don't let them get close.,N/A,-,N/A
+Campaign,Defense,Brawn,No,Buckshot Bruiser,"When using Shotguns, gain 0.25 Temporary Health for each pellet that hits.",The Furnace ,-,N/A
+Swarm,Defense,Brawn,No,Buckshot Bruiser,"When using Shotguns, gain 0.25 Temporary Health for each pellet that hits.",Available from Start,Flat,500
+Campaign,Defense,Brawn,No,Canned Goods,"+45 Health, -25% Stamina",Grant's Brew House (2),Flat,N/A
+Cleaner Skill,All,Ability,No,CARNAGE!,Several live Frag Grenades Appear.,"""Prophet"" Dan Ability",-,N/A
+Corruption,Event,Environment,-,Cave In,Rocks line the ceiling. Watch out when the ground starts shaking!,N/A,,
+Food,Stat,Reflex,No,Cereal,"Gain 5% increased Reload, Melee, and Swap Speed until the end of the map.",Find in Game,-,500
+Campaign,Defense,Discipline ,No,Charitable Soul (Caretake),Healing a teammate also applies 50% of the effect to you.,The Clinic (2),-,500
+Swarm,Defense ,Discipline ,No,Charitable Soul (Caretake),Healing a teammate also applies 50% of the effect to you.,Available from start,-,N/A
+Corruption,Ridden,Ridden,-,Charred Ridden,These burning Ridden ignore the flames entirely. Keep your distance or burn alive. (Fire Effect Radius: 1.75m),N/A,-,500
+Campaign,Offense ,Brawn,No,Chemical Courage,Pain meds you apply also grant +25% Damage for 60 Seconds.,Paul's Alley (3),-,N/A
+Swarm,Offense ,Brawn,No,Chemical Courage,Pain meds you apply also grant +25% Damage for 60 Seconds.,Available from start,-,500
+Corruption,Event,Trap,-,Chronic Injuries,"Trauma Resistance is reduced by 20%, Damage Resistance is reduced by 5%. Warped Chest Team Debuff",N/A,-,N/A
+Campaign,Utility,Brawn,No,Cleansing Fire,"Gain a stacking +5% Damage Resistance every second you're on fire, for a maximum 5 stacks lasting for 15 seconds. Fire removes most negative status effects. +40% Fire Resistance",Duffel Bag Reward / River of Blood Expansion,Bullet,500
+Campaign,Utility ,Reflex,No,Cocky,"+75% Weapon Swap Speed, When you take Damage your Accuracy is reduced for 3 Seconds.",Knuckle House (2),-,500
+Campaign,Mobility,Discipline ,No,Cold Brew Coffee,"+15% Reload Speed, +25% Aim Speed, +25% Weapon Swap Speed, +25% Use Speed",Knuckle House (3),Mutation,500
+Swarm,Mobility,Discipline ,No,Cold Brew Coffee,"+15% Reload Speed, +25% Aim Speed, +25% Weapon Swap Speed, +25% Use Speed",Available from start,Mutation,N/A
+Campaign,Offense ,Discipline,No,Combat Knife,Turns your Bash into a Knife that counts as a Melee weapon.,Starter Deck,-,500
+Swarm,Offense ,Discipline,No,Combat Knife,Turns your Bash into a Knife that counts as a Melee weapon.,Available from Start,-,N/A
+Campaign,Defense,Reflex,No,Combat Medic,+50% Use Speed. Teammates recover an additional 20 Health when you revive them.,The Furnace (2),-,N/A
+Swarm,Defense,Reflex,No,Combat Medic,+50% Use Speed. Teammates recover an additional 20 Health when you revive them.,Available from start,-,N/A
+Campaign,Offense,Discipline,No,Combat Training,"+5% Bullet Damage, +1.5 Bullet Stumble Damage, +7.5 Melee Stumble Damage",Paul's Alley,-,
+Campaign,Utility,Fortune,Yes,Compound Interest,Team Effects: Each Cleaner gains 5% of thier total Copper in each Saferoom.,Bridge Town (2),-,N/A
+Campaign,Offense,Brawn,No (Yes),Confident Killer,When you or your team kills a mutation gain 1% damage (up to 15%) until the end of the level. Only Card holder obtains damage increase,Accomplishment,-,500
+Swarm,Offense ,Brawn,No (Yes),Confident Killer,When you or your team kills a mutation gain 1% damage (up to 15%) until the end of the level. Only Card holder obtains damage increase,Available from start,-,N/A
+Campaign,Mobility,Discipline ,No,Controlled Movement,+40% Movement Speed while aiming down sights with Sniper Rifles.,Paul's Alley (4),-,N/A
+Swarm,Mobility,Discipline ,No,Controlled Movement,+40% Movement Speed while aiming down sights with Sniper Rifles.,Available from start,-,N/A
+Campaign,Utility,Fortune,No,Copper Scavenger,"You can sense Nearby Copper, More copper piles spawn",Available from start,,
+Corruption,Event,Environment,-,Cost of Avarice,"Copper Piles are replaced by Warped Copper. For each pile picked up, that player's Damage Resistance is reduced by 5%. For every 100 Copper carried by any player. Move Speed, Sprint Speed, and Sprint Efficiency are reduced by 2%.",N/A,-,
+Campaign,Ability,Discipline ,No (Yes),Crippling Frequency,Reduce incoming Damage by 1 for nearby teammates for 7 seconds. Gadget Cost: 30 SMG/Pistol Ammo. REPLACES: Offensive Slot,Duffel Bag Reward / Children of the Worm Expansion,-,500
+Campaign ,Stat,Discipline,No,Critical Fail,Better luck next time. (Result of a Cursed Key Death),Failed attempt with a Cursed Key,-,N/A
+Corruption,Ridden,Cultist,-,Crone,Fires superheated arrows that can cause the target to start burning. Smoldering (Will light a target on fire after several hits. Burning targets take damage over time but can extinguish the flames to reduce severity),N/A,-,N/A
+Campaign,Mobility,Reflex,No,Cross Trainers,"+20% Stamina, +20% Stamina Regen, +3% Move Speed, +5 Health",The Crow's Nest,-,500
+Swarm,Mobility ,Reflex,No,Cross Trainers,"+20% Stamina, +20% Stamina Regen, +3% Move Speed, +5 Health",Available from start,-,N/A
+Corruption,Ridden,Mutation,-,Crushers,Getting crushed is the worst way to die. Attack the Crusher to free your teammates.,N/A,-,N/A
+Corruption,Event,Cultist,-,Culist Hordes,Waves of Cultists attack on a timer and additional Bear Traps are spawned.,N/A,Accessory,500
+Cleaner,Character,Character,Yes,Dan,"""Prophet"" Dan is Enhanced for a short duration after Cleaners are incapacitated. Strange things happen after reviving Cleaners. Team Effects: +3 Team Damage Resistance and Knockback immunity while reviving Cleaners. Starts with a SCAR, Desert Eagle, and a Smoke Grenade.",Expansion 2 - Children of the Worm,-,N/A
+Campaign,Mobility,Reflex,No,Dash,"+5% Move Speed, +5% Sprint Speed",Bridge Town,-,500
+Swarm,Mobility,Reflex,No,Dash,"+5% Move Speed, +5% Sprint Speed",Available from start,-,500
+Corruption,Event,Trap,-,Deep Wounds,Team Effects: Instantly recieve 20 Trauma Damage. Warped Chest Team Debuff,N/A,-,500
+Campaign,Mobility,Brawn,No,Defensive Maneuver (Evasive Action),When you take a hit for 15 or more damage. Gain 25% Damage Resistance for 3 seconds.,The Crow's Nest,-,N/A
+Swarm,Mobility,Brawn,No,Defensive Maneuver (Evasive Action),When you take a hit for 15 or more damage. Gain 25% Damage Resistance for 3 seconds.,Available from start,,
+Burn,Defense,Burn,Yes,Defensive Upgrade,"Team Effects: Improve the quality of all Bandage, First Aid and Painkiller Accessories.",The Collectors (V.1.000.008),-,500
+Campaign,Offense,Brawn,No,Demolitions Expert,"+50% Accessory Damage, -15% Ammo Capacity ",Paul's Alley (2),-,N/A
+Cleaner,Character,Cleaner,Yes,Doc,"Doc can heal each teammate for 25 Health once per level. +15% Healing Efficiency. Team Effects: +20% Team Trauma Resistance. Starts with an MP5, Beretta M9, and a Bandage.",Available from Start,-,N/A
+Campaign,Offense,Fortune,No,Double Grenade Pouch,+2 Offensive Inventory,Paul's Alley (2),-,N/A
+Swarm,Offense,Fortune,No,Double Grenade Pouch,+2 Offensive Inventory,Available from start,-,N/A
+Campaign,Defense,Discipline ,No,Down in Front!,While Crouching you neither take nor deal Friendly Fire damage. +10 Health,Paul's Alley (2),-,N/A
+Corruption ,Finale,Finale,-,Dr. Rogers' Neighborhood,Hold back the horde to buy time to secure Roger's Research. Act 3 Finale,N/A,-,N/A
+Campaign,Utility,Brawn,No,Drone Spotter,"Begin marking nearby Mutations every 7 seconds. Gain 20% chance to negate damage while active. Gadget Cost: 20 Sniper Rifle Ammo. REPLACES: Quick Slot, FRAGILE",Duffel Bag Reward / River of Blood Expansion,-,N/A
+Campaign,Defense,Brawn,No,Durable,"+15% Trauma Resistance, +10 Health, +20% Fire Resistance",The Clinic,-,N/A
+Swarm,Defense ,Brawn,No,Durable,"+50% Trauma Resistance, +5 Health",Available from start,,
+Burn,Offense,Burn,No,Dusty's Customs: Assault Rifle,Grant yourself a higher quality Assault Rifle with random attachments.,Roving Merchants,-,
+Burn,Offense,Burn,No,Dusty's Customs: Handgun,Grant yourself a higher quality Handgun with random attachments.,Roving Merchants,,
+Burn,Offense,Burn,No,Dusty's Customs: LMG,Grant yourself a higher quality LMG with random attachments.,Roving Merchants,-,500
+Burn,Offense,Burn,No,Dusty's Customs: Melee Weapon,Grant yourself a higher quality Melee Weapon with random attachments.,Roving Merchants,-,500
+Burn,Offense,Burn,No,Dusty's Customs: Shotgun,Grant yourself a higher quality Shotgun with random attachments.,Roving Merchants,-,N/A
+Burn,Offense,Burn,No,Dusty's Customs: SMG,Grant yourself a higher quality SMG with random attachments.,Roving Merchants,-,500
+Burn,Offense,Burn,No,Dusty's Customs: Sniper Rifle,Grant yourself a higher quality Sniper Rifle with random attachments.,Roving Merchants,-,N/A
+Campaign,Talent,Discipline ,Yes,Emergency Transfusion,"Team Effects: +1 Extra Life. Receive the ability to revive a dead teammate by consuming one of your lives. If you do not have any lives available, give your life for theirs.",Legendary Card Shrine,-,N/A
+Campaign,Offense,Brawn,Yes,Empowered Assault,"After you kill a Mutation, the next time you damage a Mutation guranteed to cause them to Stumble. Team Effects: +5% Team Stumble Damage.",Duffel Bag Reward / River of Blood Expansion,-,500
+Campaign,Defense,Discipline,No,EMT Bag,+50% Healing Efficiency,The Clinic,-,N/A
+Campaign,Mobility ,Discipline ,No,Energy Bar,"+30% Stamina Regeneration, +5 Health",Bridge Town,-,
+Swarm,Defense ,Discipline ,No,Energy Bar,"+60% Stamina Regeneration, +5 Health",Available from start,-,
+Campaign,Mobility ,Reflex,No,Energy Drink,"+15% Stamina, +25% Weapon Swap Speed, +15% Move Speed while firing, +10% Slow Resistance",The Crow's Nest (2),-,
+Swarm,Mobility ,Reflex,No,Energy Drink,"+15% Stamina, +25% Weapon Swap Speed, +15% Move Speed while firing, +10% Slow Resistance",Available from start,-,N/A
+Campaign,Offense,Brawn,No,Ether Bomb,"Emit a gas that attracts Ridden to you for 7 seconds, but also slow your movement speed by 50%. Gadget Cost: 50 Rifle Ammo. REPLACES: Support Slot",Duffel Bag Reward / River of Blood Expansion,-,
+Cleaner,Character,Cleaner,Yes,Evangelo,"Evangelo can quickly break out of grabs once every 60 Seconds (+75% Breakout Speed). +25% Stamina Regen. Team Effects: +5% Team Movement Speed. Starts with an Uzi, Machete, and a Molotov",Available from Start,-,N/A
+Campaign,Defense ,Discipline ,No,Experienced EMT,"When you use a Medical Accessory, the target gains +10% Maximum Health, Stamina, and Stamina Regen until the end of the level.",The Clinic (4),-,500
+Swarm,Defense ,Discipline ,No,Experienced EMT,"When you use a Medical Accessory, the target gains +10% Maximum Health, Stamina, and Stamina Regen until the end of the level.",Available from start,-,N/A
+Campaign,Talent,Reflex,No (Yes),Experimental Stimulants,Create a cloud that grants 20% Damage and 30% Reload Speed. Gadget Cost: 40 Rifle Ammo. REPLACES: Support Slot,Duffel Bag Reward / Children of the Worm Expansion,-,500
+Campaign,Utility,Discipline ,No,Experimental Stun gun,"Enhances Bash to stun nearby enemies. Refreshes after 10 seconds. Gadget Cost: 30 Sniper Rifle Ammo. REPLACES: Quick Slot, FRAGILE (Effects removed after recieving damage)",Duffel Bag Reward / Children of the Worm Expansion,-,N/A
+Campaign,Ability,Discipline ,No,Expired T5,"Create a powerful blast that deals 20 Fire Damage to Weakspots. After the initial blast, continue to deal 1 damage per second for 7 seconds. Gadget Cost: 75 Rifle Ammo. REPLACES: Support Slot",Duffel Bag Reward / Children of the Worm Expansion,-,N/A
+Corruption,Ridden,Mutation,-,Exploders,Stay away from these two-legged death bombs.,N/A,-,N/A
+Campaign,Talent,Brawn,Yes,Explosive Boils,"Team Effects: When your team gets a Precision Kill against a Mutation, a powerful explosion is created that damages nearby Ridden.",Legendary Card Shrine,-,N/A
+Corruption ,Curse,Trial of the Worm,-,Extra Lives Reduced,Cleaners permanently lose an Extra Life,N/A,-,N/A
+Burn,Defense,Burn,Yes,Extra Padding,Team Effects: Each Cleaner gains +20% Trauma Resistance.,Roving Merchants,,
+Campaign,Defense ,Brawn,No,Face Your Fears,Heal 1 Temporary Health whenever you kill a Ridden within 2.5 meters.,The Stilts (3),-,N/A
+Swarm,Defense ,Brawn,No,Face your Fears,Heal 1 Temporary Health whenever you kill a Ridden within 2.5 meters.,Available from Start,-,N/A
+Campaign,Defense,Fortune ,No,Fanny Pack,"+1 Support Inventory, +15% Trauma Resistance",The Furnace ,-,N/A
+Swarm,Defense ,Fortune ,No,Fanny Pack,"+1 Support Inventory, +15% Trauma Resistance",Available from Start,,
+Corruption ,Curse,Trial of the Worm,-,Fast Bleed Out,Incap Bleed out Speed is increased by (25%) (50%) (100%),N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Armored Bruisers,"Bruiser's can take a lot of punishment. Keep moving and don't let them get close. Ferocious (+25% Health, +50% Damage), Armored (Weakspots are covered by durable Armor.), Tenacious (Bruiser's regenerate while in a Frenzy.)",N/A,,
+Corruption,Ridden,Mutation,-,Ferocious Armored Crushers,"Getting crushed is the worst way to die. Attack the Crusher to free your teammates. Ferocious (+25% Health, +50% Damage), Armored (Weakspots are covered by durable Armor.), Traumatic (Crushers deal 100% Trauma damage.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Armored Exploders,"Stay away from these two-legged death bombs. Ferocious (+25% Health, +50% Damage), Armored (Weakspots are covered by durable Armor.), Shockwave (Explosion knockback increased by 100%)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Armored Hockers,"Melee teammates to free them from Hocker Pins. Ferocious (+25% Health, +50% Damage), Armored (Weakspots are covered by durable Armor.), Heartpiercer (Hocker Pin deals an additional 10 damage on impact.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Armored Lobbers,"The Lobber hurls sticky bombs that damage and burn any Cleaners caught in its large blast radius. Mind your ammo and give these explosives a wide berth! Armored (Weakspots are covered by durable Armor.) Ferocious  (+25% Health, +50% Damage) Sear (Ammo on Cleaners caught in the blast radius catches fire and becomes useless. Cleaners lose 10% of their total ammo.), Bombardment (Burning Ammo Piles dropped by Cleaners explode after a delay.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Armored Retches,"Acid spew leaves Dangerous Bile Pools. Ferocious (+25% Health, +50% Damage), Armored (Weakspots are covered by durable Armor.), Gunk (Direct hits with vomit also reduce Reload, Swap, and Use speed by 35%.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Armored Stalkers,"A grabbed teammate is a dead teammate. Quickly kill the Stalker to free teammates. Ferocious (+25% Health, +50% Damage), Armored (Weakspots are covered by durable Armor.), Blooddrinker (Stalkers heal whenever they deal damage.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Armored Stingers,"Stinger spit toxic spittle from long distancs or high vantage points. Ferocious (+25% Health, +50% Damage), Armored (Weakspots are covered by durable Armor.), Congeal (Stinger Spittle blinds and has an increased slowing effect.)",N/A,-,
+Corruption,Ridden,Mutation,-,Ferocious Armored Swarmers,"Lurking Swarmers send out Clouds of insects from behind cover to track down Cleaners. Burn these pests and hunt down the Swarmer before you're consumed. Armored (Weakspots are covered by durable Armor.) Ferocious  (+25% Health, +50% Damage) Pesky (The Swarm Cloud applies a stacking 10% Use Speed Debuff) Culling (Swarm Clouds seek out Cleaners with the lowest amount of Health) Persistence (An additional Swarm Cloud spawns)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Armored Tallboys,"These towering mutations can surge into powerful slam attacks. Aim for the weakspot or use fire to take them out. Ferocious (+25% Health, +50% Damage), Armored (Weakspots are covered by durable Armor.), Hardened (Tallboys take 75% reduced damage from Explosions)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Armored Wailers,"This minelayer births Gas Sacs that track any enemies foolish enough to get close. Destory the Gas Sacs before you're overwhelmed. Armored (Weakspots are covered by durable Armor.) Ferocious (+25% Health, +50% Damage) Prolific (Wailer generates 3 Sacs at a time.) ",N/A,-,N/A
+Corruption,Ridden,Ridden,-,Ferocious Blitzing,"This is what remains of the living. Aim for the head to put them down quickly. Ferocious (+25% Health, +2 Additional Damage per hit)",N/A,-,N/A
+Corruption ,Kill,Boss,-,Ferocious Boss (+),"Defeat the Boss and complete the level to earn +500 Copper. +Bonus Supply Points Ferocious (+25% Health, +50% Damage), Armored (Weakspots are covered by durable Armor.)",N/A,,
+Corruption ,Survive,Boss,-,Ferocious Boss (Elite+),"Defeat the Boss and complete the level without any cleaners being incapacitated to earn +500 Copper. +Bonus Supply Points. Ferocious (+25% Health, +50% Damage), Armored (Weakspots are covered by durable Armor.)",N/A,-,N/A
+Corruption ,Event,Boss,-,Ferocious Boss (No Hope),"Beware, a dangerous Boss Mutation lurks nearby. Roaming Boss Card in No Hope Difficulty.",N/A,-,
+Corruption ,Survive,Boss,-,Ferocious Boss (Survival+),"Defeat the Boss and complete the level with all cleaners alive to earn +500 Copper. +Bonus Supply Points. Ferocious (+25% Health, +50% Damage), Armored (Weakspots are covered by durable Armor.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Bruisers,"Bruiser's can take a lot of punishment. Keep moving and don't let them get close. Ferocious (+25% Health, +50% Damage), Tenacious (Bruiser's regenerate while in a Frenzy.)",N/A,-,N/A
+Corruption,Ridden,Cultist,-,Ferocious Crone,"You have a target on your back! Sidestep these crones' flaming arrows lest you get reduced to cinders. Ferocious (+25% Health, +50% Damage), Smoldering (Will light a target on fire after several hits. Burning targets take damage over time but can extinguish the flames to reduce severity)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Crushers,"Getting crushed is the worst way to die. Attack the Crusher to free your teammates. Ferocious (+25% Health, +50% Damage), Traumatic (Crushers deal 100% Trauma damage.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Exploders,"Stay away from these two-legged death bombs. Ferocious (+25% Health, +50% Damage), Shockwave (Explosion knockback increased by 100%)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Hockers,"Melee teammates to free them from Hocker Pins. Ferocious (+25% Health, +50% Damage), Heartpiercer (Hocker Pin deals an additional 10 damage on impact.)",N/A,-,N/A
+Corruption,Ridden,Ridden,-,Ferocious Jogging Ridden,"This is what remains of the living. Aim for the head to put them down quickly. Ferocious (+25% Health, +2 Additional Damage per hit)",N/A,-,
+Corruption,Ridden,Mutation,-,Ferocious Lobbers,The Lobber hurls sticky bombs that damage and burn any Cleaners caught in its large blast radius. Mind your ammo and give these explosives a wide berth! Sear (Ammo on Cleaners caught in the blast radius catches fire and becomes useless. Cleaners lose 10% of their total ammo.),N/A,,
+Corruption,Kill,Boss,-,Ferocious Ogre,"You've drawn the attention of the Ogre. Ferocious (+25% Health, +50% Damage), Armored (Weakspots are covered by durable Armor.)",N/A,-,N/A
+Corruption,Ridden,Cultist,-,Ferocious Pusflinger,"Lobs jars full of a Cultist Concoction that attract Ridden to the target at a greater distance and drain a Cleaner's Stamina. Ferocious (+25% Health, +50% Damage), ",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Reekers,"Reeker guts can call the horde if they explode on you. Ferocious (+25% Health, +50% Damage), Viscous (Cleaners hit by Reeker explosions are slower by an additional 30%.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Retches,"Acid spew leaves Dangerous Bile Pools. Ferocious (+25% Health, +50% Damage), Gunk (Direct hits with vomit also reduce Reload, Swap, and Use speed by 35%.)",N/A,,
+Corruption,Ridden,Mutation,-,Ferocious Rippers,"This Warped Ridden flings spiked cysts in a line from his massive arm to attack from afar. Ferocious (+25% Health, +50% Damage), Destruction (Hurls spiked balls in 3 wide lines. Find the gap between lines.)",N/A,-,N/A
+Corruption,Ridden,Ridden,-,Ferocious Running Ridden,"This is what remains of the living. Aim for the head to put them down quickly. Ferocious (+25% Health, +2 Additional Damage per hit)",N/A,-,N/A
+Corruption,Ridden,Ridden,-,Ferocious Shambling Ridden,"This is what remains of the living. Aim for the head to put them down quickly. Ferocious (+25% Health, +2 Additional Damage per hit)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Shredders,"This subterranean Warped Ridden launches adhesive tendrils that pull Cleaners toward it, applying the Pus Covered status. Ferocious (+25% Health, +50% Damage), Viscous (Cleaners hit by Shredder Implosions are slower by 30%.)",N/A,,
+Corruption,Ridden,Cultist,-,Ferocious Slasher,"Fast moving and heavily armored. These Slashers Leap at their targets and attack with claws that cause extra stacks of Bleed to its victims. Ferocious (+25% Health, +50% Damage), Armored (Weakspots are covered by durable Armor.) Leap (Slashers can perform a leaping slash attack, crossing a long distance very quickly.), Bleed (Bleed causes damage over time that increases in severity with each additional attack.)",N/A,-,500
+Corruption,Ridden,Cultist,-,Ferocious Sniper,"Uses a heavily modified Hunting Rifle with a High Visibility Laser for quick acquisition and elimination. Ferocious (+25% Health, +50% Damage)",N/A,-,
+Corruption,Ridden,Ridden,-,Ferocious Sprinting Ridden,"This is what remains of the living. Aim for the head to put them down quickly. Ferocious (+25% Health, +2 Additional Damage per hit)",N/A,-,500
+Corruption,Ridden,Mutation,-,Ferocious Stalkers,"A grabbed teammate is a dead teammate. Quickly kill the Stalker to free teammates. Ferocious (+25% Health, +50% Damage), Blooddrinker (Stalkers heal whenever they deal damage.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Stingers,"Stinger spit toxic spittle from long distancs or high vantage points. Ferocious (+25% Health, +50% Damage), Congeal (Stinger Spittle blinds and has an increased slowing effect.)",N/A,-,500
+Corruption,Ridden,Mutation,-,Ferocious Swarmers,"Lurking Swarmers send out Clouds of insects from behind cover to track down Cleaners. Burn these pests and hunt down the Swarmer before you're consumed. Ferocious  (+25% Health, +50% Damage) Pesky (The Swarm Cloud applies a stacking 10% Use Speed Debuff) Culling (Swarm Clouds seek out Cleaners with the lowest amount of Health) Persistence (An additional Swarm Cloud spawns)",N/A,-,500
+Corruption,Ridden,Mutation,-,Ferocious Tallboys,"These towering mutations can surge into powerful slam attacks. Aim for the weakspot or use fire to take them out. Ferocious (+25% Health, +50% Damage), Hardened (Tallboys take 75% reduced damage from Explosions)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ferocious Urchin,"This subterranean Warped Ridden hurls Urchin Mines that damage and slow Cleaners. Damage the Mines to clear them! Ferocious (+25% Health, +50% Damage), Paralytic (Cleaners hit by the Urchin Mine are slowed even further.)",N/A,-,
+Corruption,Ridden,Mutation,-,Ferocious Wailers,"This minelayer births Gas Sacs that track any enemies foolish enough to get close. Destory the Gas Sacs before you're overwhelmed. Ferocious (+25% Health, +50% Damage) Prolific (Wailer generates 3 Sacs at a time.) ",N/A,-,0
+Corruption,Ridden,Ridden,-,Festering Ridden,"Festering Common attacks cause a stacking loss of Stamina and Healing Efficiency. Medkits, First Aid Cabinets, and Doc's healing ability can remove the effects.",N/A,-,500
+Campaign,Defense,Discipline ,No,Field Surgeon,"When you use a Medical Accessory, it also heals 3 Trauma to the target.",Accomplishment,-,500
+Campaign,Talent,Reflex,No,Fill 'em Full of Lead,"While shooting, gain 1% Damage, 1% Fire Rate, and 5% swap speed every 0.25 seconds. Max count of buffs is 20.",Duffel Bag Reward / Children of the Worm Expansion,-,N/A
+Campaign,Mobility,Reflex,No,Fire in the Hole!,"When you throw an Offensive Accessory, Gain 20 Temporary Health and 25% Sprint speed for 5 Seconds.",Bridge Town (3),Flat,500
+Swarm,Mobility,Reflex,No,Fire in the Hole!,"When you throw an Offensive Accessory, Gain 20 Temporary Health and 25% Sprint speed for 5 Seconds.",Available from Start,-,N/A
+Campaign,Stat,Brawn,Yes,Fit as a Fiddle,Team Effects: +20% Team Bolstered Health. +5 Team Health,The Collectors (Tunnels of Terror),,
+Corruption ,Boon,Trial of the Worm,-,Flamethrower,A Flamethrower spawns in the Safe Room and additional Gas Cans are added to the environment,N/A,-,
+Campaign,Mobility,Reflex,No,Fleet of Foot,+8% Move Speed,Knuckle House,-,
+Swarm,Mobility,Reflex,No,Fleet of Foot,+8% Move Speed,Available from Start,-,500
+Campaign,Talent,Fortune,No,Food Scavenger,You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food items restore an additional 3 Health. (+7 Food Items),Duffel Bag Reward / Children of the Worm Expansion,-,N/A
+Swarm,Talent,Fortune,No,Food Scavenger,You can sense nearby Food Items. Adds a moderate amount of Food Items to the world. Food items restore an additional 3 Health. (+7 Food Items),Available from Start,Accessory,500
+Campaign,Utility,Fortune,No,Fortune,Gain 50 Copper at the start of each level.,Available when decks empty / Free Card Shrine,-,N/A
+Campaign,Defense ,Brawn,No,Fresh Bandage,"At the start of each level, recover 15 Trauma Damage, then restore any missing Health.",Grant's Brew House,-,500
+Campaign,Offense ,Discipline ,No,Front Sight Focus,"+20% Accuracy, +10% Weakspot Damage, +15% Aim Speed, +15% Recoil Control",Paul's Alley,-,N/A
+Swarm,Offense ,Discipline ,No,Front Sight Focus,"+20% Accuracy, +10% Weakspot Damage, +15% Aim Speed, +15% Recoil Control",Available from Start,-,500
+Campaign,Offense,Reflex,No,Glass Cannon,"+25% Damage, -30% Health ",Paul's Alley (3),-,500
+Corruption,Event,Environment,-,Gloom,Power is out in most of the area. Only emergency door alarms remain active. Dark Level and more alarmed doors,N/A,-,N/A
+Food,Stat,Brawn,No,Gourmet Dinner,Heal 8 Health and Trauma. Also gain 3 Max Health until the end of the level. (See 'Wasteland Chef' Card),"Obtained via ""Wasteland Chef"" in game",-,500
+Food,Stat,Brawn,No,Green Beans,Restore 0.1 Health and 0.5 Stamina every second until the end of the map.,Find in Game,-,N/A
+Campaign,Offense,Fortune,No,Grenade Pouch,"+1 Offensive Inventory, +25% Swap Speed, -5% Offensive Accessory Cost",Paul's Alley,,
+Swarm,Offense ,Fortune,No,Grenade Pouch,"+1 Offensive Inventory, +25% Swap Speed, -5% Offensive Accessory Cost",Available from Start,-,500
+Campaign,Offense ,Brawn,No,Grenade Training,+25% Accessory Damage,Fort Hope,-,500
+Burn,Defense,Burn,Yes,Group Hug,Team Effects: +1 Team Extra Life.,Roving Merchants (V.1.000.008),-,
+Campaign,Defense,Discipline ,No,Group Therapy,"When you use a Medical Accessory, all teammates heal for 8 Health.",The Clinic (3),-,0
+Swarm,Defense ,Discipline ,No,Group Therapy,"When you use a Medical Accessory, all teammates heal for 8 Health.",Available from Start,-,0
+Campaign,Utility,Reflex,No,Guns Out,"+50% Weapon Swap Speed, -5% Damage Resistance ",The Crow's Nest (2),Melee,600
+Swarm,Utility,Reflex,No,Guns Out,"+50% Weapon Swap Speed, -5% Damage Resistance ",Available from Start,Stumble,500
+Corruption,Ridden,Boss,-,Hag,A Hag is stalking you.,N/A,-,N/A
+Campaign,Utility ,Fortune ,No,Hazard Pay,Gain 250 Bonus Copper at the start of Each level.,Bridge Town (5),-,500
+Burn,Defense,Burn,Yes,Hazard Suit,"Team Effects: Each Cleaner gains: +20% Fire Resistance, +20% Acid Resistance, +20% Explosion Resistance",Roving Merchants,-,N/A
+Campaign,Utility,Discipline,Yes,Hazmat Specialist,+35% Acid Resistance. Your Bait Jars do direct damage to targets and can hit Weakspots. Team Effects: Killing Mutations that are covered with Bait has a 75% chance to create another Bair Jar.,Duffel Bag Reward / River of Blood Expansion,-,N/A
+Campaign,Utility ,Reflex,No,Headband Magnifier,"+125% Use Speed. When you take Damage, you have a chance to be Blinded for 1 Second.",Bridge Town (3),-,500
+Swarm,Utility ,Reflex,No,Headband Magnifier,"+125% Use Speed. When you take Damage, you have a chance to be Blinded for 1 Second.",Available from Start,-,N/A
+Campaign,Talent,Brawn,Yes,"Heads, You Lose","Each time you pick up copper, a coin flips. If you win, gain a stack of 5% extra damage. If you lose, all stacks are reset.",Legendary Card Shrine,-,500
+Corruption,Curse,Trial of the Worm,-,Healing Reduced,Healing Efficiency is reduced by (12.5%) (25%) (50%),N/A,-,500
+Campaign,Defense,Brawn,No,Health,+5 Health,Available when decks empty / Free Card Shrine,-,N/A
+Swarm,Defense,Brawn,No,Health,+5 Health,Available when decks empty / Free Card Shrine,-,N/A
+Campaign,Offense,Brawn,No,Heavy Attack,Press [RIGHTCLICK/L2/LT] with Melee weapons to perform a Heavy Attack. Heavy Attacks deal 100% increased damage and expend 50% more Stamina.,The Strip,-,N/A
+Campaign,Offense,Brawn,No,Heavy Hitter,Melee hits always Stumble Ridden the first time they are hit. This effect can only occur once per target.,The Furnace (3),-,N/A
+Burn,Utility,Burn,Yes,Hell Can Wait,Team Effects: Gain 1 additional Continue.,Roving Merchants,-,500
+Campaign,Mobility,Reflex,No,Hellfire,+45% Movement Speed while firing. +3% Move Speed while not firing.,Bridge Town (4),-,N/A
+Swarm,Mobility,Reflex,No,Hellfire,+45% Movement Speed while firing. +3% Move Speed while not firing.,Available from Start,-,N/A
+Cleaner,Character,Cleaner,Yes,Heng,"Heng restores an additional 1 Trauma when consuming Food and gains the effects of food consumed by other Cleaners. +Food Spawns (10 Food Items). Team Effects: +1 Health and Stamina for each Food consumed. Starts with an RPK, Hatchet, and a Pipebomb.",Expansion 1 - Tunnels of Terror,-,500
+Campaign,Offense,Reflex,No,Hi Vis Sights,"+30% Aim Speed, +15% Move Speed while ADS, +15% Move Speed while firing",Paul's Alley,Weakpoint,500
+Swarm,Offense ,Reflex,No,Hi Vis Sights,+40% Aim Speed,Available from Start,Ignore the Pain,500
+Campaign,Utility,Fortune,No,Highwayman (Finders Keepers),"Kills with Secondary guns have a 5% chance to spawn ammo, Molotov, or a Bair Jar.",The Stilts (3),Ignore the Pain,N/A
+Swarm,Utility,Fortune,No,Highwayman (Finders Keepers),"Kills with Secondary guns have a 5% chance to spawn ammo, Molotov, or a Bair Jar.",Available from Start,Accessory,500
+Burn,Utility,Burn,No,Hired Gun,"Each kills grants 5 Copper, up to 1,000.",The Collectors (V.1.000.008),,
+Corruption,Ridden,Mutation,-,Hockers,Melee teammates to free them from Hocker Pins.,N/A,-,500
+Cleaner,Character,Cleaner,Yes,Hoffman,"Hoffman has a chance to find Ammo or an Offensive Accessory whenever he kills a Ridden, +1 Offensive Inventory. Team Effects: +15% Max Team Ammo Capacity. Starts with a TAC14, M1911, and an Ammo Pouch.",Available from Start,-,N/A
+Cleaner,Character,Cleaner,Yes,Holly,"Holly heals 1 Health when she kills a Ridden. +25 Stamina. Team Effects: +5% Team Damage Resistance. Starts with an 870 Express, Bat, and a Stun gun",Available from Start,-,500
+Campaign,Defense,Discipline ,No,Hunker Down,"While Crouching, gain 10% Damage Resistance and 40% Accuracy",Paul's Alley (3),-,N/A
+Swarm,Defense ,Discipline ,No,Hunker Down,"While Crouching, gain 10% Damage Resistance and 40% Accuracy",Available from Start,Cleaner / Weakpoint,N/A
+Corruption,Event,Ridden,-,Hunted,There are rampaging hordes in this area. It's only a matter of time before they find us.,N/A,-,N/A
+Campaign,Defense,Brawn,No,Hydration Pack,"+35 Health, -15% Ammo Capacity",The Furnace  / Bot Deck,-,N/A
+Campaign,Offense,Reflex,No,Hyper-Focused,"+50% Weakspot Damage, -40% Move Speed while shooting or melee attacking.",Knuckle House (3),-,N/A
+Campaign,Defense,Brawn,No,Ignore the Pain,+20% Melee Damage against Mutations. When you deal Melee damage to a Mutation heal 2 Health and recover 3 Stamina.,The Stilts (3),,
+Swarm,Defense,Brawn,No,Ignore the Pain,+20% Melee Damage against Mutations. When you deal Melee damage to a Mutation heal 2 Health and recover 3 Stamina.,Available from Start,Weakpoint,500
+Campaign,Offense,Brawn,No,Improvised Explosives,"+75% Accessory Damage, -25% Swap Speed",Fort Hope (3),Weakpoint,500
+Campaign,Offense,Discipline ,No,In the Zone,Precision Kills grant 5% Reload Speed for 5 Seconds (stacking up to 10 times).,Paul's Alley (4),Bullet,500
+Swarm,Offense,Discipline ,No,In the Zone,Precision Kills grant 5% Reload Speed for 5 Seconds (stacking up to 10 times).,Available from Start,Bullet,N/A
+Corruption ,Curse,Trial of the Worm,-,Increased Incoming Damage,Incoming Damage is increased by (12.5%) (25%) (50%),N/A,-,N/A
+Corruption,Ridden,Ridden,-,Infected Troops,"Military Ridden are Heavily fortified from head to toe. Resistant to Razor Wire and sporting heavy duty helmets, be sure to focus them down before they get too close.",N/A,-,N/A
+Campaign,Defense,Discipline,Yes,Inspiring Sacrifice (Blood Donor),"Team Effects: When you or a teammate becomes incapacitated, All teammates recover 20 Health over 10 Seconds.",The Clinic / Bot Deck,-,500
+Swarm,Defense ,Discipline ,Yes,Inspiring Sacrifice (Blood Donor),Team Effects: When you or a teammate becomes incapacitated. All teammates recover 20 Health over 15 Seconds.,Available from Start,-,500
+Corruption ,Curse,Trial of the Worm,-,Instant Trauma,Cleaners receive Trauma Damage upon opening the Saferoom Door,N/A,-,500
+Cleaner,Character,Cleaner,Yes,Jim,"Precision kills grant Jim 2.5% stacking damage until he takes damage (Max 10 Stacks). +25% Reload speed. Team Effects: +10% Team weakspot damage. Starts with a Phoenix 350L, 357 Magnum, and a Razor wire.",Available from Start,-,N/A
+Corruption ,Finale,Finale,-,Job 10:22,"Meet with Phillips' operative at the Church. Stay alert, there's a new Snitch mutation in the area that will always call the horde when alerted or killed. Act 2 Finale",N/A,-,500
+Corruption,Ridden,Ridden,-,Jogger Swarm,"What remains of the Living, aim for the head to put them down quickly.",N/A,-,500
+Cleaner,Character,Cleaner,Yes,Karlee,"Karlee can sense nearby hazards and Mutations. +1 Quick Inventory. Team Effects: +50% Team Use Speed. Starts with an AK47, TEC 9, and a Toolkit",Available from Start,-,N/A
+Campaign,Offense,Reflex,No,Killer's Instinct,+30% Weakspot Damage. DISABLES: Aim Down Sights,Fort Hope (3),Weapon,500
+Campaign,Utility,Discipline ,No,Knowledge is Power,"+10% Weakspot Damage, Allows Player to see values for damage they deal and enemy health bars.",Knuckle House (3),Weapon,N/A
+Campaign,Offense,Discipline ,No,Large Caliber Rounds,"+7.5% Bullet Damage, +200% Bullet Penetration",The Stilts / Bot Deck,-,500
+Swarm,Offense,Discipline ,No,Large Caliber Rounds,"+7.5% Bullet Damage, +200% Bullet Penetration",Available from Start,-,500
+Burn,Offense,Burn,No,Legendary Attachment,Grants a random Legendary attachment bolted to your primary weapon.,The Collectors (V.1.000.008),-,500
+Corruption ,Boon,Trial of the Worm,-,Legendary Attachments,Legendary Attachments can be found in a Prepper Stash,N/A,-,500
+Burn,Offense,Burn,No,Legendary Weapon,Grants a random Legendary weapon.,The Collectors (V.1.000.008),-,N/A
+Corruption ,Boon,Trial of the Worm,-,Legendary Weapon,A Legendary Weapon can be found in a Prepper Stash,N/A,Marked for Death,500
+Campaign,Defense,Fortune,Yes,Life Insurance (Insurance Policy),+2 Extra Life. Team Effects: +10% Reduced Incap Trauma,The Clinic (3),Marked for Death,N/A
+Swarm,Defense,Fortune,Yes,Life Insurance (Insurance Policy),+2 Extra Life. Team Effects: +10% Reduced Incap Trauma,Available from Start,Melee,500
+Campaign,Offense ,Brawn,No,Line 'em Up,"+10% Effective Bullet Range, +15% Recoil Control, +25% Bullet Penetration, +25% Aim Speed",Grant's Brew House (3),-,500
+Swarm,Offense ,Brawn,No,Line 'em Up,"+10% Effective Bullet Range, +15% Recoil Control, +25% Bullet Penetration, +25% Aim Speed",Available from Start,-,500
+Corruption,Ridden,Mutation,-,Lobber,The Lobber hurls sticky bombs that damage and burn any Cleaners caught in its large blast radius. Mind your ammo and give these explosives a wide berth! Sear (Ammo on Cleaners caught in the blast radius catches fire and becomes useless. Cleaners lose 10% of their total ammo.),N/A,-,500
+Corruption ,Curse,Trial of the Worm,-,Loss of Offensive Slot,Offensive Slots are reduced by 1.,N/A,-,500
+Corruption ,Curse,Trial of the Worm,-,Loss of Offensive Slots,Offensive Slots are reduced by 2.,N/A,-,N/A
+Corruption ,Curse,Trial of the Worm,-,Loss of Quick Slot,Quick Slots are reduced by 1.,N/A,,
+Corruption ,Curse,Trial of the Worm,-,Loss of Quick Slots,Quick Slots are reduced by 2.,N/A,-,500
+Corruption ,Curse,Trial of the Worm,-,Loss of Support Slot,Support Slots are reduced by 1.,N/A,-,N/A
+Corruption ,Curse,Trial of the Worm,-,Loss of Support Slots,Support Slots are reduced by 2.,N/A,-,500
+Campaign,Utility,Fortune ,No,Lucky Pennies (Lucky Duck),"Whenever your team loots Copper, you have a 35% chance to find 100% additional Copper",Accomplishment,-,N/A
+Campaign,Mobility,Reflex,No,Mad Dash,"+20% Sprint Speed, -40% Sprint Stamina Efficiency",The Crow's Nest (5),-,N/A
+Swarm,Mobility,Reflex,No,Mad Dash,"+20% Sprint Speed, -40% Sprint Stamina Efficiency",Available from Start,-,500
+Campaign,Offense,Reflex,No,Mag Carrier,"+30% Pistol/SMG Ammo Capacity, +10% Damage with Pistols and SMGs",Accomplishment,-,N/A
+Swarm,Offense,Reflex,No,Mag Carrier,"+30% Pistol/SMG Ammo Capacity, +10% Damage with Pistols and SMGs",Available from Start,-,N/A
+Campaign,Offense,Reflex,No,Mag Coupler,"+50% Reload Speed, DISABLES: Aim Down Sights",Paul's Alley (2),-,N/A
+Campaign,Talent,Fortune,No,Magician's Apprentice,You have an additional 10% chance to not consume Accessories when used.,The Collectors (Tunnels of Terror),-,N/A
+Campaign,Mobility,Reflex,Yes,Mandatory PT,"Team Effects: +10% Team Stamina, +10% Team Stamina Regen",Knuckle House (2),,
+Campaign,Mobility,Reflex,No,Marathon Runner,No Movement Penalty for Strafe or Backpedal,The Crow's Nest (2),-,N/A
+Swarm,Mobility ,Reflex,No,Marathon Runner,"+5% Move Speed, No Movement Penalty for Strafe or Backpedal",Available from Start,-,N/A
+Campaign,Utility,Discipline ,No,Marked for Death,Mutations you Ping are highlighted and your team deals 10% increased damage to highlighted enemies.,Paul's Alley (3) / Bot Deck,-,N/A
+Swarm,Utility ,Discipline ,No,Marked for Death,Mutations you Ping are highlighted and your team deals 10% increased damage to highlighted enemies.,Available from Start,-,N/A
+Corruption,Curse,Trial of the Worm,-,Max Ammo Reduced,Max Ammo is reduced by (12.5%),N/A,-,N/A
+Corruption ,Curse,Trial of the Worm,-,Max Health Reduced,Max Health is reduced by (12.5%),N/A,,
+Campaign,Offense,Brawn,No,Mean Drunk,+40% Melee Damage. Your Melee Attacks cause cleave through enemies dealing damage in a large area.,Knuckle House (2),-,N/A
+Campaign,Offense,Discipline ,No,Meatgrinder,Gain 30% Move Speed and Accuracy while crouched and using an LMG.,Accomplishment,-,N/A
+Swarm,Offense,Discipline ,No,Meatgrinder,Gain 30% Move Speed and Accuracy while crouched and using an LMG.,Available from Start,,
+Campaign,Defense,Reflex,Yes,Medical Expert,"+50% Revive Speed. When you use a Medical Accessory, it also heals 1 Trauma to the target. Team Effects: +15% Healing Efficiency.",The Clinic (4) / Bot Deck,-,N/A
+Campaign,Defense,Discipline ,No,Medical Professional,"Defibrillators and First Aid heal 10 additional Trauma Damage and 1 Extra Life, if able.",The Clinic (4),-,N/A
+Burn,Loot,Burn,Yes,Medical Supply Scavenger,Team Effects: Increased Medical items spawn this level.,The Collectors (V.1.000.008),-,N/A
+Food,Stat,Brawn,No,Mediocre Meal,Recover 5 Health (See 'Wasteland Chef' Card),"Obtained via ""Wasteland Chef"" in game",-,N/A
+Campaign,Offense ,Reflex,No,Meth Head,Each Melee swing grants 5% Melee Speed and 5% Melee Stamina Efficiency for 6 Seconds. Stacking up to 10 times. Your Melee Attacks no longer stick in tough enemies. DISABLES: Aim Down Sights,The Crow's Nest (3),-,
+Swarm,Offense ,Reflex,No,Meth Head,Each Melee swing grants 5% Melee Speed and 5% Melee Stamina Efficiency for 6 Seconds. Stacking up to 10 times. Your Melee Attacks no longer stick in tough enemies. DISABLES: Aim Down Sights,Available from Start,-,N/A
+Campaign,Defense,Reflex,No,Miraculous Recovery,"When you use a Medical Accessory, it has a 25% chance to have 100% increased effect.",The Clinic (4),-,N/A
+Corruption,Event,Environment,-,Mist,An Unnatural fog has settled on this area. Dense Fog and More Sleeper Spawns,N/A,-,N/A
+Cleaner,Character,Cleaner,Yes,Mom,"Mom grants her team 25 Temporary Health when a teammate is Incapped. +1 Support Inventory. Team Effects: +100% Team Revive Speed, 20% Slower Team Temp Health Decay. Starts with Ranch Rifle, Belgian, & Pain Meds.",Available from Start,-,N/A
+Campaign,Utility,Fortune,No,Money Grubbers,"Each time your team loots Copper, you gain 3 additional Copper, up to 25 times.",The Stilts (2),,
+Corruption,Ridden,Mutation,-,Monstrous Armored Bruisers,"Bruiser's can take a lot of punishment. Keep moving and don't let them get close. Monstrous (+50% Health, +100% Damage), Armored (Weakspots are covered by durable Armor.) Tenacious (Bruiser's regenerate while in a Frenzy.), Fearsome (Bruisers reduce the damage of nearby Cleaners.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Armored Crushers,"Getting crushed is the worst way to die. Attack the Crusher to free your teammates. Monstrous (+50% Health, +100% Damage), Armored (Weakspots are covered by durable Armor.) Traumatic (Crushers deal 100% Trauma damage.), Stubborn (Crushers no longer release a grabbed Cleaner from bullet stumble)",N/A,-,
+Corruption,Ridden,Mutation,-,Monstrous Armored Exploders,"Stay away from these two-legged death bombs. Monstrous (+50% Health, +100% Damage), Armored (Weakspots are covered by durable Armor.) Shockwave (Explosion knockback increased by 100%), Concussive (Cleaners hit by explosion are briefly blinded.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Armored Hockers,"Melee teammates to free them from Hocker Pins. Monstrous (+50% Health, +100% Damage), Armored (Weakspots are covered by durable Armor.) Heartpiercer (Hocker Pin deals an additional 10 damage on impact.), Toxin (Hocker Pin leaves a toxin that reduces healing recieved by 50% for 30 seconds.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Armored Lobbers,"The Lobber hurls sticky bombs that damage and burn any Cleaners caught in its large blast radius. Mind your ammo and give these explosives a wide berth! Armored (Weakspots are covered by durable Armor.) Monstrous (+50% Health, +100% Damage) Sear (Ammo on Cleaners caught in the blast radius catches fire and becomes useless. Cleaners lose 10% of their total ammo.), Bombardment (Burning Ammo Piles dropped by Cleaners explode after a delay.), Firestorm (Cleaners drop an additional set of Burning Ammo with a shorter fuse that explodes more quickly.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Armored Retches,"Acid spew leaves Dangerous Bile Pools. Monstrous (+50% Health, +100% Damage), Armored (Weakspots are covered by durable Armor.) Gunk (Direct hits with vomit also reduce Reload, Swap, and Use speed by 35%.), Adhesive (Acid pools also reduce move speed by 75%)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Armored Rippers,"This Warped Ridden flings spiked cysts in a line from his massive arm to attack from afar. Armored (Weakspots are covered by durable Armor.) Monstrous (+50% Health, +100% Damage), Annihilation (Spiked Balls are flung in a solid arc in front of the Ripper.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Armored Shredders,"This subterranean Warped Ridden launches adhesive tendrils that pull Cleaners toward it, applying the Pus Covered status. Armored (Weakspots are covered by durable Armor.) Monstrous (+50% Health, +100% Damage), Viscous (Cleaners hit by Shredder Implosions are slower by 30%.), Impact (Cleaners hit by Shredder Implosions will take damage.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Armored Stalkers,"A grabbed teammate is a dead teammate. Quickly kill the Stalker to free teammates. Monstrous (+50% Health, +100% Damage), Armored (Weakspots are covered by durable Armor.) Blooddrinker (Stalkers heal whenever they deal damage.), Meat Shield (Stalkers take less damage while grabbing a Cleaner.)",N/A,-,
+Corruption,Ridden,Mutation,-,Monstrous Armored Stingers,"Stinger spit toxic spittle from long distancs or high vantage points. Monstrous (+50% Health, +100% Damage), Armored (Weakspots are covered by durable Armor.) Congeal (Stinger Spittle blinds and has an increased slowing effect.), Predator (Stingers attack 50% faster.)",N/A,,
+Corruption,Ridden,Mutation,-,Monstrous Armored Swarmers,"Lurking Swarmers send out Clouds of insects from behind cover to track down Cleaners. Burn these pests and hunt down the Swarmer before you're consumed. Armored (Weakspots are covered by durable Armor.) Monstrous (+50% Health, +100% Damage) Pesky (The Swarm Cloud applies a stacking 10% Use Speed Debuff) Culling (Swarm Clouds seek out Cleaners with the lowest amount of Health) Persistence (An additional Swarm Cloud spawns) Voracious (Swarm Clouds move faster. Pesky lasts until the end of the map or until a Bandage, First Aid, or First Aid Cabinet is used)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Armored Tallboys,"These towering mutations can surge into powerful slam attacks. Aim for the weakspot or use fire to take them out. Monstrous (+50% Health, +100% Damage), Armored (Weakspots are covered by durable Armor.) Hardened (Tallboys take 75% reduced damage from Explosions), Quick (Tallboys attack 50% faster.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Armored Urchins,"This subterranean Warped Ridden hurls Urchin Mines that damage and slow Cleaners. Damage the Mines to clear them! Armored (Weakspots are covered by durable Armor.) Monstrous (+50% Health, +100% Damage), Paralytic (Cleaners hit by the Urchin Mine are slowed even further.) Secretion (The Urchin Mine's acidic goo radius is increased.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Armored Wailers,"This minelayer births Gas Sacs that track any enemies foolish enough to get close. Destory the Gas Sacs before you're overwhelmed. Armored (Weakspots are covered by durable Armor.)  Monstrous (+50% Health, +100% Damage) Prolific (Wailer generates 3 Sacs at a time.) Scorch (Gas Sacs set players on fire) Burning (Instantly lights a damaged target on fire. Burning targets take damage over time but can extinguish the flames to reduce severity)",N/A,,
+Corruption,Ridden,Ridden,-,Monstrous Blitzing,"This is what remains of the living. Aim for the head to put them down quickly. Monstrous (+50% Health, +4 Additional Damage per hit)",N/A,-,N/A
+Corruption ,Ridden,Boss,-,Monstrous Boss (+),"Defeat the Boss and complete the level to earn +500 Copper. +Bonus Supply Points Monstrous (+50% Health, +100% Damage)",N/A,-,N/A
+Corruption ,Event,Boss,-,Monstrous Boss (No Hope),"Beware, a dangerous Boss Mutation lurks nearby. Roaming Boss Card in No Hope Difficulty.",N/A,,
+Corruption,Ridden,Mutation,-,Monstrous Bruisers,"Bruiser's can take a lot of punishment. Keep moving and don't let them get close. Monstrous (+50% Health, +100% Damage), Tenacious (Bruiser's regenerate while in a Frenzy.), Fearsome (Bruisers reduce the damage of nearby Cleaners.)",N/A,-,500
+Corruption,Ridden,Cultist,-,Monstrous Crone,"These vicious crones shoot volleys of white-hot arrows, instantly igniting anyone they strike. Take them out before your plans -- and team -- go up in flames Monstrous (+50% Health, +100% Damage), Burning (Instantly lights a damage target on fire. Burning targets take damage over time but can extinguish the flames to reduce severity.)",N/A,-,500
+Corruption,Ridden,Mutation,-,Monstrous Crushers,"Getting crushed is the worst way to die. Attack the Crusher to free your teammates. Monstrous (+50% Health, +100% Damage), Traumatic (Crushers deal 100% Trauma damage.), Stubborn (Crushers no longer release a grabbed Cleaner from bullet stumble)",N/A,-,500
+Corruption,Ridden,Mutation,-,Monstrous Exploders,"Stay away from these two-legged death bombs. Monstrous (+50% Health, +100% Damage), Shockwave (Explosion knockback increased by 100%), Concussive (Cleaners hit by explosion are briefly blinded.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Hockers,"Melee teammates to free them from Hocker Pins. Monstrous (+50% Health, +100% Damage), Heartpiercer (Hocker Pin deals an additional 10 damage on impact.), Toxin (Hocker Pin leaves a toxin that reduces healing recieved by 50% for 30 seconds.)",N/A,-,500
+Corruption,Ridden,Ridden,-,Monstrous Jogging Ridden,"This is what remains of the living. Aim for the head to put them down quickly. Monstrous (+50% Health, +4 Additional Damage per hit)",N/A,-,500
+Corruption,Ridden,Mutation,-,Monstrous Lobbers,"The Lobber hurls sticky bombs that damage and burn any Cleaners caught in its large blast radius. Mind your ammo and give these explosives a wide berth! Monstrous (+50% Health, +100% Damage) Sear (Ammo on Cleaners caught in the blast radius catches fire and becomes useless. Cleaners lose 10% of their total ammo.), Bombardment (Burning Ammo Piles dropped by Cleaners explode after a delay.), Firestorm (Cleaners drop an additional set of Burning Ammo with a shorter fuse that explodes more quickly.)",N/A,-,N/A
+Corruption,Kill,Boss,-,Monstrous Ogre,"You've drawn the attention of the Ogre. Monstrous (+50% Health, +100% Damage)",N/A,-,500
+Corruption,Ridden,Cultist,-,Monstrous Pusflinger,"Lobs jars full of a Cultist Concoction that attract Ridden to the target and drain a Cleaner's Stamina. Monstrous (+50% Health, +100% Damage),",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Reekers,"Reeker guts can call the horde if they explode on you. Monstrous (+50% Health, +100% Damage), Viscous (Cleaners hit by Reeker explosions are slower by an additional 30%.), Irritant (Cleaners hit by Reeker explosions also take 25% increased damage for 1 minute.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Retches,"Acid spew leaves Dangerous Bile Pools. Monstrous (+50% Health, +100% Damage), Gunk (Direct hits with vomit also reduce Reload, Swap, and Use speed by 35%.), Adhesive (Acid pools also reduce move speed by 75%)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Rippers,"This Warped Ridden flings spiked cysts in a line from his massive arm to attack from afar. Monstrous (+50% Health, +100% Damage), Annihilation (Spiked Balls are flung in a solid arc in front of the Ripper.)",N/A,-,500
+Corruption,Ridden,Ridden,-,Monstrous Running Ridden,"This is what remains of the living. Aim for the head to put them down quickly. Monstrous (+50% Health, +4 Additional Damage per hit)",N/A,-,N/A
+Corruption,Ridden,Ridden,-,Monstrous Shambling Ridden,"This is what remains of the living. Aim for the head to put them down quickly. Monstrous (+50% Health, +4 Additional Damage per hit)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Shredders,"This subterranean Warped Ridden launches adhesive tendrils that pull Cleaners toward it, applying the Pus Covered status. Monstrous (+50% Health, +100% Damage), Viscous (Cleaners hit by Shredder Implosions are slower by 30%.) Impact (Cleaners hit by Shredder Implosions will take damage.",N/A,-,N/A
+Corruption,Ridden,Cultist,-,Monstrous Slasher,"Fast moving and heavily armored. These Slashers Leap at their targets and attack with claws that cause extra stacks of Bleed to its victims. Monstrous (+50% Health, +100% Damage), Armored (Weakspots are covered by durable Armor.) Leap (Slashers can perform a leaping slash attack, crossing a long distance very quickly.), Bleed (Bleed causes damage over time that increases in severity with each additional attack.)",N/A,-,N/A
+Corruption,Ridden,Cultist,-,Monstrous Sniper,"Uses a heavily modified Hunting Rifle with a High Visibility Laser for quick acquisition and elimination. Monstrous (+50% Health, +100% Damage)",N/A,-,N/A
+Corruption,Ridden,Ridden,-,Monstrous Sprinting Ridden,"This is what remains of the living. Aim for the head to put them down quickly. Monstrous (+50% Health, +4 Additional Damage per hit)",N/A,-,500
+Corruption,Ridden,Mutation,-,Monstrous Stalkers,"A grabbed teammate is a dead teammate. Quickly kill the Stalker to free teammates. Monstrous (+50% Health, +100% Damage), Blooddrinker (Stalkers heal whenever they deal damage.), Meat Shield (Stalkers take less damage while grabbing a Cleaner.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Stingers,"Stinger spit toxic spittle from long distancs or high vantage points. Monstrous (+50% Health, +100% Damage), Congeal (Stinger Spittle blinds and has an increased slowing effect.), Predator (Stingers attack 50% faster.)",N/A,-,500
+Corruption,Ridden,Mutation,-,Monstrous Swarmers,"Lurking Swarmers send out Clouds of insects from behind cover to track down Cleaners. Burn these pests and hunt down the Swarmer before you're consumed. Monstrous (+50% Health, +100% Damage) Pesky (The Swarm Cloud applies a stacking 10% Use Speed Debuff) Culling (Swarm Clouds seek out Cleaners with the lowest amount of Health) Persistence (An additional Swarm Cloud spawns) Voracious (Swarm Clouds move faster. Pesky lasts until the end of the map or until a Bandage, First Aid, or First Aid Cabinet is used)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Tallboys,"These towering mutations can surge into powerful slam attacks. Aim for the weakspot or use fire to take them out. Monstrous (+50% Health, +100% Damage), Hardened (Tallboys take 75% reduced damage from Explosions), Quick (Tallboys attack 50% faster.)",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Monstrous Urchin,"This subterranean Warped Ridden hurls Urchin Mines that damage and slow Cleaners. Damage the Mines to clear them! Monstrous (+50% Health, +100% Damage), Paralytic (Cleaners hit by the Urchin Mine are slowed even further.) Secretion (The Urchin Mine's acidic goo radius is increased.)",N/A,-,500
+Corruption,Ridden,Mutation,-,Monstrous Wailers,"This minelayer births Gas Sacs that track any enemies foolish enough to get close. Destory the Gas Sacs before you're overwhelmed. Monstrous (+50% Health, +100% Damage) Prolific (Wailer generates 3 Sacs at a time.) Scorch (Gas Sacs set players on fire) Burning (Instantly lights a damaged target on fire. Burning targets take damage over time but can extinguish the flames to reduce severity)",N/A,-,500
+Campaign,Defense,Discipline ,No,Motorcycle Helmet,"+15% Damage Resistance, +10 Health, DISABLES: Aim Down Sights",The Furnace (2),-,
+Campaign,Defense ,Discipline,No,Motorcycle Jacket,"+5% Damage Resistance, +5 Health",The Clinic,-,500
+Campaign,Utility,Fortune,No,Mugger,"Kills with Melee weapons have a 5% chance to spawn ammo, Razor Wire or a Bear Trap.",Knuckle House (2),-,N/A
+Swarm,Utility,Fortune,No,Mugger,"Kills with Melee weapons have a 5% chance to spawn ammo, Razor Wire or a Bear Trap.",Available from Start,Flat,500
+Campaign,Utility,Reflex,No,Multitool,"+75% Use Speed, -5% Damage Resistance",Knuckle House (2),-,500
+Campaign,Mobility ,Discipline ,No,Natural Sprinter,"+100% Stamina Regeneration, -50% Maximum Stamina",The Crow's Nest (4),-,500
+Swarm,Mobility ,Discipline ,No,Natural Sprinter,"+100% Stamina Regeneration, -50% Maximum Stamina",Available from Start,ADS,500
+Campaign,Defense,Discipline ,Yes,Needs of the Many,-10% Health. Team Effects: +1 Team Extra Life,The Stilts (3) / Bot Deck,ADS,N/A
+Corruption ,Curse,Trial of the Worm,-,No Copper,No Copper spawns in this Chapter.,N/A,-,
+Corruption ,Curse,Trial of the Worm,-,No Extra Lives,Cleaners start with No Extra Lives,N/A,-,
+Corruption,Survive,Challenge,-,No One Left Behind,Complete the level with all four Cleaners alive to earn 500 Copper.,N/A,-,500
+Corruption,Survive,Challenge,-,No One Left Behind (+),Complete the level with all four Cleaners alive to earn 500 Copper. +Bonus Supply Points,N/A,-,N/A
+Corruption,Event,Environment,-,Noxious Fumes,Noxious gas fills the air. Fill up on oxygen at generators found throughout the map before moving forward. Breathing the fumes without oxygen will have increasingly negative effects.,N/A,-,500
+Campaign,Defense ,Brawn,No,Numb,Gain +10% Damage Resistance while you have Temporary Health,The Clinic (3),-,N/A
+Swarm,Defense ,Brawn,No,Numb,Gain +10% Damage Resistance while you have Temporary Health,Available from Start,,
+Campaign,Utility,Brawn,No,Offensive Scavenger,You can sense nearby Offensive Accessories. More Offensive Accessories spawn. (+5),The Stilts,-,500
+Burn,Loot,Burn,Yes,Offensive Supply Scavenger,Team Effects: Increased Offensive items spawn this level.,The Collectors (V.1.000.008),-,N/A
+Burn,Offense,Burn,Yes,Offensive Upgrade,"Team Effects: Improves the quality of all Frag, Molotov, Pipe Bomb, Firecracker, Flashbang, Bait Jar, and Smoke Grenade accessories.",The Collectors (V.1.000.008),-,500
+Corruption,Ridden,Boss infected,-,Ogre,You've drawn the attention of the Ogre.,N/A,-,N/A
+Campaign,Mobility,Reflex,No,Olympic Sprinter,"+30% Sprint Efficiency, -7% Damage Resistance",Bridge Town (2),-,
+Swarm,Mobility,Reflex,No,Olympic Sprinter,"+30% Sprint Efficiency, -7% Damage Resistance",Available from Start,-,500
+Campaign,Mobility,Reflex,Yes,On your Mark...,"Team Effects: When a horde is triggered, your team restores 7.5% Ammo and gains 10% Move Speed while firing, 15% Reload Speed, and 25% Swap Speed for 30 seconds.",Bridge Town (3) / Bot Deck,-,500
+Swarm,Mobility,Reflex,Yes,On your Mark...,"Team Effects: When a horde is triggered, your team restores 7.5% Ammo and gains 10% Move Speed while firing, 15% Reload Speed, and 25% Swap Speed for 30 seconds.",Available from Start,Melee,500
+Corruption,Event,Ridden,-,Onslaught,"The horde is right on our heels, move fast or be overrun.",N/A,Bullet / Melee,500
+Campaign,Offense ,Discipline ,No,Optics Enthusiast,+30% Accuracy,Fort Hope / Bot Deck,Bullet / Melee,N/A
+Swarm,Offense ,Discipline ,No,Optics Enthusiast,+30% Accuracy,Available from Start,-,N/A
+Campaign,Talent,Brawn,Yes,Out with a Bang,"Team Effects: when a teammate is incapacitated or dies, they drop an active Pipe Bomb.",Duffel Bag Reward / Children of the Worm Expansion,-,500
+Campaign,Talent,Discipline,No,Over-Protective,"When a teammate within 15 meters recieves 5 or more damage, gain 20% increased damage for 5 seconds.",The Collectors (Tunnels of Terror),-,N/A
+Campaign,Defense ,Brawn,No,Overwatch,Kills from greater than 15 meters grant 5 Temporary Health to teammates within 15 meters of the target.,The Furnace (3),-,N/A
+Swarm,Defense ,Brawn,No,Overwatch,Kills from greater than 15 meters grant 5 Temporary Health to teammates within 15 meters of the target.,Available from Start,Fire,500
+Campaign,Defense,Discipline,No,Padded Suit,"+10% Damage Resistance, +5 Health, -20% Stamina Efficiency",The Furnace / Bot Deck,Fire,N/A
+Swarm,Defense,Discipline,No,Padded Suit,"+10% Damage Resistance, +5 Health, -20% Stamina Efficiency",Available from Start,-,N/A
+Campaign,Offense,Discipline ,No,Patient Hunter,Every 0.75 seconds you Aim Down Sights increases your Bullet Damage by 10% (up to 3 stacks).,Fort Hope,-,500
+Swarm,Offense ,Discipline ,No,Patient Hunter,Every 0.75 seconds you Aim Down Sights increases your Bullet Damage by 10% (up to 3 stacks).,Available from Start,-,
+Food,Stat,Brawn,No,Peaches,Restores 5 Health and 5 Trauma.,Find in Game,-,N/A
+Food,Stat,Discipline,No,Peanut Butter,Gain 5% increased Accuracy and Melee Stamina Efficiency until the end of the map.,Find in Game,,
+Campaign,Mobility,Reflex,No,Pep in your Step,Precision Kills grant you 8% Move Speed for 5 Seconds.,Knuckle House,-,500
+Swarm,Mobility,Reflex,No,Pep in your Step,Precision Kills grant you 8% Move Speed for 5 Seconds.,Available from Start,Weakpoint,500
+Campaign,Utility,Reflex,No,Pep Talk,"While reviving teammates, take 3 less damage from all Ridden. Teammates recover an additional 10 Health when you revive them.",The Clinic (2),-,N/A
+Swarm,Utility,Reflex,No,Pep Talk,"While reviving teammates, take 3 less damage from all Ridden. Teammates recover an additional 10 Health when you revive them.",Available from Start,-,N/A
+Campaign,Offense,Discipline,No,Phosphorous Tipped,Continuous gunfire gives an escalating chance to set targets on fire.,Duffel Bag Reward / River of Blood Expansion,-,500
+Campaign,Talent,Fortune,No,Pinata,Killing Ridden with an Accessory has 10% chance to drop an Accessory.,The Collectors (Tunnels of Terror),-,N/A
+Corruption ,Finale,Finale,-,Plan B,Secure the weapons cache and send it back to Fort Hope. Act 2 Finale,N/A,-,N/A
+Campaign,Defense,Discipline,No,Poultice,"When you use a medical accessory, the target recovers an additional 20 Health over 30 Seconds.",The Clinic,-,N/A
+Swarm,Defense ,Discipline ,No,Poultice ,"When you use a medical accessory, the target recovers an additional 20 Health over 30 Seconds.",Available from Start,-,500
+Food,Stat,Discipline,No,Power Bars,Gain 1% increased Damage until the end of the map.,Find in Game,-,500
+Campaign,Offense,Discipline ,No,Power Reload,Reloading a gun within 1 Second of reaching low ammo will increase its magazine size by 30% until the next reload.,Paul's Alley (3),-,N/A
+Swarm,Offense,Discipline ,No,Power Reload,Reloading a gun within 1 Second of reaching low ammo will increase its magazine size by 30% until the next reload.,Available from Start,Weakpoint,500
+Campaign,Talent,Brawn,No,Power Strike,"Every 3 Seconds, gain +10 Bash Damage. Stacking up to 10 times. All charges are consumed on use.",The Collectors (Tunnels of Terror),Weakpoint,N/A
+Campaign,Offense,Reflex,No,Power Swap,Changing Weapons within 1 Second of reaching low ammo grants +20% Bullet and Melee Damage for 5 Seconds.,Bridge Town (3),-,N/A
+Swarm,Offense,Reflex,No,Power Swap,Changing Weapons within 1 Second of reaching low ammo grants +20% Bullet and Melee Damage for 5 Seconds.,Available from Start,-,
+Burn,Loot,Burn,No,Primary Weapon Upgrade,"Upgrades the quality of your currently equipped primary weapons by one rarity, up to Epic.",The Collectors (V.1.000.008),Weapon,500
+Campaign,Stat,Reflex,No,Pumped Up,Your Temporary Health decays 20% slower. 1 Additional Pain Meds spawns in each map. +5% Health,The Collectors (Tunnels of Terror),-,500
+Corruption,Event,Environment,-,Pure Chaos,Timed Hordes. Healing efficiency reduced by 50%. Large Quantities of Frags and Molotovs appear in the map.,N/A,-,500
+Corruption,Ridden,Cultist,-,Pusflinger,Lobs jars full of a Cultist Concoction that attract Ridden to the target and drain a Cleaner's Stamina.,N/A,-,500
+Campaign,Offense ,Brawn,No,Pyro,"+100% Fire Damage, Gain 3 Temporary Health for each kill with fire. You can sense flammable objects nearby.",The Furnace (3),-,N/A
+Swarm,Offense ,Brawn,No,Pyro,"+100% Fire Damage, Gain 3 Temporary Health for each kill with fire. You can sense flammable objects nearby.",Available from Start,-,N/A
+Burn,Utility,Burn,Yes,Quick Item Upgrade,"Team Effects: Improves the quality of all Tool Kit, Stun Gun, Defibrillator, Razorwire, Ammo Pouch, and Bear Trap Accessories.",The Collectors (V.1.000.008),-,500
+Campaign,Offense ,Discipline ,No,Quick Kill,"+50% Accuracy, DISABLES: Aim Down Sights",Fort Hope (2),Weakpoint,500
+Cleaner Skill,All,Ability,No,RADIANCE!,Several live Flash Grenades Appear.,"""Prophet"" Dan Ability",Weakpoint,500
+Corruption,Event,Character,-,Ravenous,"Every 30 seconds you become more hungry, eating food reverses this. You take 3 Damage and 1.25 Trauma Damage every 15 seconds for each stack of Hunger, but recover 1 Trauma Damage for each stack of Full. More Food Spawns",N/A,-,500
+Corruption ,Challenge,Environmental,-,Razor Worms,Clusters of Razor Worms grow and spread throughout the area. Crouch through them to avoid their effects.,N/A,-,N/A
+Campaign,Mobility ,Reflex,No,Reckless,"+40% Sprint Efficiency, When you take Damage while Sprinting you lose all Stamina.",Bridge Town (3),-,N/A
+Campaign,Offense ,Reflex,No,Reckless Strategy,"+30% Weakspot Damage, -5% Damage Resistance",Knuckle House,-,N/A
+Corruption ,Curse,Trial of the Worm,-,Reduced Agility,"Weapon Swap Speed, ADS Speed, and Reload Speed are reduced by (12.5%) (25%) (40%)",N/A,-,N/A
+Corruption,Event,Mutation,-,Reeker Hordes,"Huge hordes of Reekers, Retches, and Exploders will attack on a timer.",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Reekers,Reeker guts can call the horde if they explode on you.,N/A,-,N/A
+Campaign,Offense,Reflex,No,Reload Drills,"+20% Reload Speed, +25% Weapon Swap Speed",Starter Deck / Bot Deck,-,N/A
+Swarm,Offense ,Reflex,No,Reload Drills,+30% Reload Speed,Available from Start,-,N/A
+Corruption ,Finale,Finale,-,Remnants,Take the weapon to the heart of the Ridden Infestation. Act 3 Finale,N/A,-,500
+Corruption,Ridden,Mutation,-,Retches,Acid spew leaves Dangerous Bile Pools.,N/A,-,N/A
+Campaign,Mobility ,Reflex,No,Rhythmic Breathing,+40% Stamina,Bridge Town (3),-,500
+Swarm,Mobility ,Reflex,No,Rhythmic Breathing,+40% Stamina,Available from Start,-,500
+Cleaner Skill,All,Ability,No,RICHES!,Several Copper pickups Appear.,"""Prophet"" Dan Ability",-,N/A
+Corruption,Ridden,Ridden,-,Ridden,"What remains of the Living, aim for the head to put them down quickly.",N/A,-,N/A
+Campaign,Offense,Reflex,No,Ridden Slayer,+20% Weakspot Damage,The Crow's Nest,-,500
+Swarm,Offense ,Reflex,No,Ridden Slayer,+35% Weakspot Damage,Available from Start,-,N/A
+Corruption ,Curse,Trial of the Worm,-,Ridden Stumble Resistance,Ridden Stumble Resistance is increased by (12.5%) (25%),N/A,-,N/A
+Corruption,Ridden,Mutation,-,Ripper,This Warped Ridden flings spiked cysts in a line from his massive arm to attack from afar.,N/A,-,N/A
+Campaign,Mobility,Reflex,No,Rolling Thunder,"+35% Move Speed while firing with Shotguns, +10% Damage with shotguns.",Knuckle House,-,500
+Campaign,Utility,Reflex,Yes,Rousing Speech,"Team Effects: Teammates recover an additional 10 Health when revived. +50% Team Revive Speed, +10% Team Reduced Incap Trauma.",Grant's Brew House (3),-,N/A
+Campaign,Mobility,Fortune ,No,Run and Gun (Wake of Death),You can sprint while shooting,The Crow's Nest,Weapon,500
+Campaign,Mobility,Reflex,No,Run like Hell,"+12% Move Speed, +15% Sprint Speed. When you take Damage, your lose the benefits of Run like Hell for 3 Seconds.",Bridge Town (3),Weapon,N/A
+Swarm,Mobility,Reflex,No,Run like Hell,"+12% Move Speed, +15% Sprint Speed. When you take Damage, your lose the benefits of Run like Hell for 3 Seconds.",Available from Start,-,500
+Corruption,Ridden,Ridden,-,Runners,"What remains of the Living, aim for the head to put them down quickly.",N/A,-,N/A
+Campaign,Talent,Brawn,No,Sadist,"When a teammate within 15 meters recieves 5 or more damage, gain 20% of the damage as Temporary Health. Can only trigger once per second.",The Collectors (Tunnels of Terror),-,500
+Campaign,Offense,Reflex,No,Sadistic,Each Precision Kill gives 5% increased Weakspot Damage for 10 Seconds.,Bridge Town (2),-,500
+Swarm,Offense,Reflex,No,Sadistic,Each Precision Kill gives 5% increased Weakspot Damage for 10 Seconds.,Available from Start,Shredder,500
+Campaign,Defense,Fortune,No (Yes),Saferoom Recovery,"Your team heals 15 Health, 7 Trauma Damage and refills 10% Ammo at the start of each level.",The Clinic (4),Shredder,N/A
+Corruption ,Survive,Challenge,-,Safety First,Complete the level without the cleaners being incapacitated more than 4 times to earn 500 Copper.,N/A,-,N/A
+Corruption,Survive,Challenge,-,Safety First - Elite,Complete the level without the cleaners being incapacitated 2 times to earn: +500 Copper.,N/A,-,N/A
+Corruption,Survive,Challenge,-,Safety First - Elite (+),Complete the level without the cleaners being incapacitated 2 times to earn: +500 Copper. +Bonus Supply Points,N/A,-,N/A
+Corruption,Survive,Challenge,-,Safety First - Flawless,Complete the level without the cleaners being incapacitated to earn: +500 Copper. +Bonus Supply Points,N/A,-,N/A
+Corruption,Survive,Challenge,-,Safety First - Veteran,Complete the level without the cleaners being incapacitated more than once to earn 500 Copper. +Bonus Supply Points,N/A,-,N/A
+Corruption ,Survive,Challenge,-,Safety First (+),Complete the level without the cleaners being incapacitated more than 4 times to earn 500 Copper. +Bonus Supply Points.,N/A,Bullet,500
+Corruption ,Survive,Challenge,-,Safety First (Expert),Complete the level without the cleaners being incapacitated more than 3 times to earn 500 Copper.,N/A,Bullet,N/A
+Corruption ,Survive,Challenge,-,Safety First (Expert+),Complete the level without the cleaners being incapacitated more than 3 times to earn 500 Copper. +Bonus Supply Points.,N/A,-,N/A
+Campaign,Defense ,Brawn,No,Scar Tissue,Take 1 less damage from all Ridden. +50% Acid Resistance.,Grant's Brew House,-,N/A
+Swarm,Defense ,Brawn,No,Scar Tissue,Take 1 less damage from all Ridden. +50% Acid Resistance.,Available from Start,-,N/A
+Campaign,Offense,Discipline ,No,Scattergun Skills,+40% Reload Speed with Shotguns.,Paul's Alley (4),-,500
+Campaign,Utility,Reflex,No,Screwdriver,"+50% Use Speed, +10% Stamina",Bridge Town,-,500
+Swarm,Utility ,Reflex,No,Screwdriver ,+100% Use Speed,Available from Start,-,N/A
+Corruption ,Finale,Finale,-,Search and Rescue,Create a distraction in the Bar so the survivors can escape to Fort Hope. Act 1 Finale,N/A,-,N/A
+Campaign,Defense,Brawn,No,Second Chance,"+1 Extra Life, +15 Health, +25% Bleed out Resistance",Starter Deck,-,500
+Swarm,Defense ,Brawn,No,Second Chance,"+1 Extra Life, +10 Health",Available from Start,-,N/A
+Burn,Loot,Burn,No,Secondary Weapon Upgrade,"Upgrades the quality of your currently equipped sidearm and melee weapons by one rarity, up to Epic.",The Collectors (V.1.000.008),-,
+Corruption,Ridden,Ridden,-,Shambling Ridden Swarm,"What remains of the Living, aim for the head to put them down quickly.",N/A,,
+Campaign,Utility,Fortune,Yes,Share the Wealth,Team Effects: Each teammate gets 100 Bonus Copper at the start of each level.,The Stilts (4),Melee,500
+Cleaner,Character,Cleaner,Yes,Sharice,"Armor pieces shot off Ridden have a chance to become Makeshift Armor. +25% Trauma Resistance. Team Effects: +25% Team Bolstered Health. Starts with an UMP45, Fire Axe, and a Flashbang.",Expansion 1 - Tunnels of Terror,Melee,500
+Campaign,Offense,Fortune,No,Shell Carrier,"+30% Shotgun Ammo Capacity, +10% Damage with Shotguns.",Accomplishment,,
+Swarm,Offense,Fortune,No,Shell Carrier,"+30% Shotgun Ammo Capacity, +10% Damage with Shotguns.",Available from Start,-,500
+Campaign,Utility,Reflex,No,Shooting Gloves,"+25% Weapon Swap Speed, +15% Recoil Control, +15% Accuracy",The Crow's Nest,-,N/A
+Swarm,Utility ,Reflex,No,Shooting Gloves,"+25% Weapon Swap Speed, +15% Recoil Control, +15% Accuracy",Available from Start,Melee,500
+Campaign,Defense,Fortune ,No,Shoulder Bag,+2 Support Inventory,The Clinic (2),-,N/A
+Swarm,Defense,Fortune ,No,Shoulder Bag,+2 Support Inventory,Available from Start,-,N/A
+Campaign,Offense,Reflex,No,Shredder,Each bullet hit causes the target to take 1% increased damage for 3 Seconds (Stacks up to 15%).,The Crow's Nest (3),-,N/A
+Swarm,Offense,Reflex,No,Shredder,Each bullet hit causes the target to take 1% increased damage for 3 Seconds (Stacks up to 15%).,Available from Start,-,0
+Corruption,Ridden,Mutation,-,Shredders,"This subterranean Warped Ridden launches adhesive tendrils that pull Cleaners toward it, applying the Pus Covered status.",N/A,-,0
+Corruption,No Alarms,Challenge,-,Silence is Golden,"Complete the level without triggering any birds, Snitches, Car Alarms or Alarmed doors to earn 500 Copper.",N/A,-,500
+Corruption,No Alarms,Challenge,-,Silence is Golden - Survival,"Complete the level with all cleaners alive and without triggering any birds, Snitches, Car Alarms or Alarmed doors to earn 500 Copper.",N/A,-,N/A
+Corruption,No Alarms,Challenge,-,Silence is Golden - Survival (+),"Complete the level with all cleaners alive and without triggering any birds, Snitches, Car Alarms or Alarmed doors to earn 500 Copper. +Bonus Supply Points",N/A,-,500
+Corruption,No Alarms,Challenge,-,Silence is Golden (+),"Complete the level without triggering any birds, Snitches, Car Alarms or Alarmed doors to earn 500 Copper. +Bonus Supply Points",N/A,-,N/A
+Campaign,Offense,Discipline ,No,Silver Bullets,"+10% Bullet Damage, +15% Effective Range",The Stilts (2) / Bot Deck,-,500
+Swarm,Offense,Discipline ,No,Silver Bullets,"+10% Bullet Damage, +15% Effective Range",Available from Start,-,N/A
+Corruption,Collect,Challenge,-,Skull Totems,Find Skull Totems and cash them in at any exit.,N/A,-,N/A
+Corruption,Ridden,Cultist,-,Slasher,Fast moving and armored. Slashers claws will apply a stacking Bleed effect to its victims. Bleed (Bleed causes damage over time that increases in severity with each additional attack.),N/A,-,N/A
+Burn,Defense,Burn,Yes,Slippery when Wet,Team Effects: Each Cleaner gains the Breakout ability and reduces its cooldown by 50%.,Roving Merchants,Weapon,500
+Campaign,Offense ,Reflex,No,Slugger,"+5 Health, +10% Melee Stamina Efficiency, +20% Melee Attack Speed, +10% Bow Stamina Efficiency, +20% Bow Attack Speed",Grant's Brew House,Weapon,N/A
+Swarm,Offense ,Reflex,No,Slugger,"+5 Health, +10% Melee Stamina Efficiency, +20% Melee Attack Speed, +10% Bow Stamina Efficiency, +20% Bow Attack Speed",Available from Start,Sunder,500
+Corruption,Event,Trap,-,Sluggish,"Max Stamina is reduced by 20%, Stamina Regeneration is reduced by 20%, Move Speed is reduced by 5%. Warped Chest Team Debuff",N/A,Sunder,N/A
+Corruption,Event,Mutation,-,Slumber Party,"The area is infested with Sleepers, stay together and keep your eyes open. More Sleepers Spawn",N/A,-,500
+Campaign,Utility,Reflex,No,Smelling Salts,+200% Revive Speed,Grant's Brew House,-,N/A
+Swarm,Utility,Reflex,No,Smelling Salts,+200% Revive Speed,Available from Start,-,N/A
+Campaign,Talent,Discipline ,Yes,Smells Like Victory,Team Effects: Mutations that you kill have a 50% chance to spawn a healing cloud for the team that lasts for 10 seconds.,Legendary Card Shrine,-,
+Corruption,Ridden,Cultist,-,Sniper,Eliminates targets using a Hunting Rifle with a Laser pointer from the relative safety of their hunting blinds.,N/A,-,500
+Campaign,Offense ,Brawn,No,Soften Up (Batter Up),"Melee hits cause the target to deal 3% reduced damage, to a maximum of 15% reduced damage.",Fort Hope,,
+Swarm,Offense ,Brawn,No,Soften Up (Batter Up),"Melee hits cause the target to deal 3% reduced damage, to a maximum of 15% reduced damage.",Available from Start,Weapon,500
+Campaign,Defense,Discipline,No,Sonic Disruptor,Emit a Pulse that deals heavy Stumble damage to nearby enemies and has a chance to knock off armor. Gadget Cost: 75 SMG/Pistol Ammo. REPLACES: Offensive Slot,Duffel Bag Reward / River of Blood Expansion,Weapon,N/A
+Campaign,Mobility,Reflex,No,Speed Demon,"+4% Movement Speed while using an SMG, +35% Reload Speed while using an SMG.",The Crow's Nest (4),,
+Swarm,Mobility,Reflex,No,Speed Demon,"+4% Movement Speed while using an SMG, +35% Reload Speed while using an SMG.",Available from Start,-,N/A
+Campaign,Offense ,Brawn,No,Spiky Bits,"+15 Melee Damage, +20% Damage Resistance while using a Melee weapon, -15% Ammo Capacity",The Stilts (2),-,N/A
+Corruption,Ridden,Ridden,-,Sprinting Ridden,"What remains of the Living, aim for the head to put them down quickly.",N/A,-,N/A
+Burn,Defense,Burn,Yes,Squad Armor,Team Effects: Grants the team Full Armor Plates.,The Collectors (V.1.000.008),-,1000
+Corruption,Ridden,Mutation,-,Stalkers,A grabbed teammate is a dead teammate. Quickly kill the Stalker to free teammates.,N/A,-,1000
+Campaign,Mobility,Reflex,No,Stamina,"+10 Stamina, +2.5% Stamina Regen",Available when decks empty / Free Card Shrine,-,1500
+Swarm,Mobility,Reflex,No,Stamina,"+10 Stamina, +2.5% Stamina Regen",Available when decks empty / Free Card Shrine,-,1500
+Corruption ,Curse,Trial of the Worm,-,Stamina Reduced,Max Stamina and Stamina Regen are reduced by (12.5%) (50%),N/A,-,1500
+Campaign,Offense,Reflex,No,Steady Aim,"Every 0.75 seconds you Aim Down Sights gives 10% Recoil Control (up to 3 stacks) +80% Aim Speed, -50% ADS Move Speed",The Stilts (2),-,1500
+Swarm,Offense,Reflex,No,Steady Aim,"Every 0.75 seconds you Aim Down Sights gives 10% Recoil Control (up to 3 stacks) +80% Aim Speed, -50% ADS Move Speed",Available from Start,-,1000
+Campaign,Talent,Reflex,Yes,Stealthy Passage,"Allows disarming of door alarms, car alarms, and birds. The target will trigger if you are interupted. DISABLES: Quick Slot. Team Effects: Gain 25 Copper per Success",The Collectors (Tunnels of Terror),-,1500
+Corruption,Event,Trap,-,Sticky,"Reload speed is reduced by 20%, Weapon swap speed is reduced by 20%. Warped Chest Team Debuff",N/A,-,1500
+Campaign,Mobility,Reflex,No,Stimulants,"Pain Meds you apply also grant +20% Stamina Regen, +15% Reload Speed, and +15% Weapon Swap Speed for 60 Seconds.",The Crow's Nest (3),,
+Swarm,Mobility,Reflex ,No,Stimulants,"Pain Meds you apply also grant +20% Stamina Regen, +15% Reload Speed, and +15% Weapon Swap Speed for 60 Seconds.",Available from Start,-,N/A
+Corruption,Event,Mutation,-,Stinger Hordes,"Huge hordes of Stingers, Stalkers, and Hockers will attack on a timer.",N/A,-,N/A
+Corruption,Ridden,Mutation,-,Stingers,Stinger spit toxic spittle from long distancs or high vantage points.,N/A,-,N/A
+Campaign,Offense,Reflex,No,Stock Pouch,"+30% Sniper Ammo Capacity, +10% Damage with Sniper Rifles.",Accomplishment,-,N/A
+Swarm,Offense,Reflex,No,Stock Pouch,"+30% Sniper Ammo Capacity, +10% Damage with Sniper Rifles.",Available from Start,-,N/A
+Corruption ,Curse,Trial of the Worm,-,Strong Locked Doors,Locked Doors are much harder to destroy,N/A,-,N/A
+Campaign,Offense ,Brawn,No,Sunder,"Melee hits cause the target to take 3% increased damage, up to a maximum of 15% increased damage. Melee hits that destroy Armor have a chance to create usable Makeshift Armor.",The Clinic (3),-,N/A
+Swarm,Offense ,Brawn,No,Sunder,"Melee hits cause the target to take 3% increased damage, up to a maximum of 15% increased damage. Melee hits that destroy Armor have a chance to create usable Makeshift Armor.",Available from Start,-,
+Campaign,Mobility,Reflex,No,Superior Cardio,"+20% Stamina, +20% Sprint Efficiency  +5 Health",The Crow's Nest,-,
+Swarm,Mobility ,Reflex,No,Superior Cardio,"+50% Sprint Efficiency, +5 Health",Available from Start,-,N/A
+Campaign,Utility,Discipline ,No,Support Scavenger,You can sense nearby Support Accessories. More Support Accessories Spawn,The Furnace ,-,N/A
+Campaign,Talent,Reflex,No,Suppressing Fire,Damaging Ridden with LMG's or Snipers has a 40% chance to slow Ridden near the target by 50% for 5 seconds.,Duffel Bag Reward / Children of the Worm Expansion,-,500
+Campaign,Offense,Fortune,Yes,Surplus Pouches,-5% Health. Team Effects: +1 Team Offensive Accessory,Fort Hope (2),-,N/A
+Corruption,Ridden,Mutation,-,Swarmer,Lurking Swarmers send out Clouds of insects from behind cover to track down Cleaners. Burn these pests and hunt down the Swarmer before you're consumed. Pesky (The Swarm Cloud applies a stacking 10% Use Speed Debuff) Culling (Swarm Clouds seek out Cleaners with the lowest amount of Health),N/A,-,500
+Campaign,Offense,Discipline ,No,Tactical Vest,"+30% Rifle Ammo Capacity, +10% Damage with Assault Rifles, and LMGs.",Accomplishment,-,500
+Swarm,Offense,Discipline ,No,Tactical Vest,"+30% Rifle Ammo Capacity, +10% Damage with Assault Rifles, and LMGs.",Available from Start,-,N/A
+Cleaner,Character,Cleaner,Yes,Tala,"Tala's attacks cause targets to bleed. Jeff the 'friendly' Tallboy can be called by anyone with his Whistle. Team Effects: +1 Warped Chest and Whistle spawn in each map. Starts with a Vector, Bow, and a Bait Jar",Expansion 3 - Children of the Worm,Weakpoint,500
+Corruption,Event,Mutation,-,Tallboy Hordes,"Huge hordes of Tallboys, Crushers, and Bruisers will attack on a timer.",N/A,Weakpoint,N/A
+Corruption,Ridden,Mutation,-,Tallboys,These towering mutations can surge into powerful slam attacks. Aim for the weakspot or use fire to take them out.,N/A,-,500
+Corruption,Event,Mutation,-,Tattlers,The mindless babbling of Snitches can be heard constantly here. Work together to avoid notice. More Snitchers Spawn,N/A,-,N/A
+Campaign,Offense,Upgrade ,Yes,Team Ammo,"Team Effects: +10% Team Ammo, +1% Damage",Shop,,
+Campaign,Defense,Upgrade,Yes,Team Health,Team Effects: +7 Team Health,Shop,-,
+Campaign,Loot,Upgrade,Yes,Team Offensive Item Upgrade,"Team Effects: Improves the quality of all Frag, Molotov, Pipe Bomb, Firecracker, Bait Jar, Smoke Grenade and Flashbang accessories.",Shop,,
+Campaign,Loot,Upgrade ,Yes,Team Offensive Slot,Team Effects: +1 Team Offensive Inventory,Shop,-,N/A
+Campaign ,Loot,Upgrade,Yes,Team Quick Item Upgrade,"Team Effects: Improves the quality of all Defibrillators, Stun Guns, Razorwire, Bear Traps and Ammo Pouches. ",Shop,-,N/A
+Campaign,Utility ,Upgrade ,Yes,Team Quick Slot,Team Effects: +1 Team Quick Slot Inventory,Shop,-,500
+Campaign,Mobility,Upgrade ,Yes,Team Stamina,"Team Effects: +10% Team Stamina, +5% Team Stamina Regen",Shop,-,500
+Campaign ,Loot,Upgrade,Yes,Team Support Item Upgrade,"Team Effects: Improves the quality of all Bandage, First Aid and Painkiller accessories. ",Shop,-,N/A
+Campaign ,Loot,Upgrade,Yes,Team Support Slot,Team Effects: +1 Team Support Inventory,Shop,-,500
+Corruption,Event,Ridden,,Terrifying Hordes,"Terrifying Hordes have been roaming the area. If a Horde is called, your team accumulates Trauma over time and suffers from negative combat effects. However, Cleaners receive powerful buffs by staying close to each other.",N/A,-,N/A
+Corruption ,Finale,Finale,-,The Abomination,Defeat the Ridden Abomination to save Fort Hope. Act 4 Finale,N/A,-,
+Corruption ,Finale,Finale,-,The Armory,Gain access to the armory in the Police Station. The hordes are increasingly aggressive here. Act 2 Finale,N/A,-,
+Corruption,Event,Environment,-,The Birds,Large flocks of crows have gathered in this area to feast on the dead. Startling them could call the horde down on you. More Birds Spawn,N/A,-,
+Corruption,Event,Environment,-,The Dark,The Power is out and a new Snitch mutation has emerged that will instantly call a horde when alerted. Stay quiet and you may make it through. Mutated Snitchers,N/A,-,500
+Corruption ,Finale,Finale,-,The Dark Before The Dawn,Reestablish supply lines to the Diner. Act 1 Finale,N/A,-,N/A
+Corruption ,Finale,Finale,-,The Devil's Return,Escape across the Evansburgh Bridge toward Finleyville with a horde on your heels. Act 1 Finale,N/A,-,N/A
+Corruption,Event,Environment,-,The Fog,Beware of what awaits you in The Fog. Dense Fog,N/A,,
+Cleaner Skill,All,Ability,Yes,THE LIGHT! (1),+5% Damage,"""Prophet"" Dan Ability",Cleaner,N/A
+Cleaner Skill,All,Ability,Yes,THE LIGHT! (2),+5% Damage Resistance,"""Prophet"" Dan Ability",,
+Corruption,Event,Environment,-,The Lockdown,Entering a High Security Area. Many of the Alarmed doors are still intact. Proceed with Caution. More Alarmed Doors,N/A,-,N/A
+Corruption,Event,Mutation,-,Timed Reeker Horde,"Reekers horde this area. Act 3, Chapter 3 Event - Constant waves of Reeker Family Spawns",N/A,-,500
+Campaign,Utility,Fortune ,Yes,Tool Belts,-10% Health. Team Effects: +1 Team Quick Item Inventory,Roving Merchants: KSC Convoy,-,500
+Corruption,Event,Character,-,Toxic Spill,"Your health slowly rots away, but kills grant a small reprieve. Fog and Kills restore some Health and Temporary Health.",N/A,-,N/A
+Corruption ,Boon,Trial of the Worm,-,Trauma Recovery,Instantly Recover 25 Trauma,N/A,-,500
+Campaign,Offense,Discipline ,No,Trigger Control,Precision Kills with guns grant +0.5% Accuracy until the end of the level.,Fort Hope (3),-,500
+Campaign,Defense ,Brawn,No,True Grit,"When you take a single hit for 15 or more damage, recover 10 Health over 5 Seconds.",The Furnace (3),-,N/A
+Swarm,Defense ,Brawn,No,True Grit,"When you take a single hit for 15 or more damage, recover 10 Health over 5 Seconds.",Available from Start,-,500
+Campaign,Offense,Reflex,No,Tunnel Vision,"Every 0.75 seconds you Aim Down Sights gives 5% Weakspot Damage (up to 3 stacks) +50% Aim Speed, -5% Damage Resistance ",The Crow's Nest (2),-,500
+Swarm,Offense,Reflex,No,Tunnel Vision,"Every 0.75 seconds you Aim Down Sights gives 5% Weakspot Damage (up to 3 stacks) +50% Aim Speed, -5% Damage Resistance ",Available from Start,-,500
+Campaign,Offense,Brawn,No,Two is One and One is None,You can equip a Primary weapon in your Secondary slot. -25% Swap speed,Paul's Alley (2),,
+Swarm,Offense ,Brawn,No,Two is One and One is None,You can equip a Primary weapon in your Secondary slot. -25% Swap speed,Available from Start,,
+Campaign,Scavenger,Fortune ,Yes,Ugly Chachkies,Team Effects: Increases the number of Mementos in the world that can be collected for extra Supply Points. This Card does not spawn any Mementos in Trial of the Worm,Duffel Bag Reward / October Update 2022,-,N/A
+Campaign,Ability,Brawn,No (Yes),Ultrasonic Wound Therapy,Heal 6 Health over 7 seconds to nearby teammates. Gadget Cost: 40 SMG/Pistol Ammo. REPLACES: Offensive Slot,Duffel Bag Reward / Children of the Worm Expansion,,
+Campaign,Ability,Brawn,Yes,Unnatural Healing,"Team Effects: After not being damaged for 4.5 seconds, Regenerate 1 Health per second.",Legendary Card Shrine,,
+Corruption ,Ridden,Mutation,-,Urchin,This subterranean Warped Ridden hurls Urchin Mines that damage and slow Cleaners. Damage the Mines to clear them!,N/A,,
+Burn,Offense,Burn,Yes,Urgent Care,Team Effects: Each Cleaner restores 15 Health and Trauma.,Roving Merchants,,
+Campaign,Utility,Fortune ,No,Utility Belt,+2 Quick slot Inventory,Roving Merchants: Liberators,,
+Swarm,Utility,Fortune ,No,Utility Belt,+2 Quick slot Inventory,Available from Start,,
+Campaign,Utility,Reflex,No,Utility Scavenger,You can sense nearby Quick Accessories. More Quick Accessories spawn.,Bridge Town,,
+Campaign,Defense,Discipline ,No (Yes),Vanguard,"Melee kills heal 1 Health to yourself, and teammates within 10 meters.",Fort Hope (2),,
+Swarm,Defense,Discipline ,No (Yes),Vanguard,"Melee kills heal 1 Health to yourself, and teammates within 10 meters.",Available from Start,,
+Cleaner Skill,All,Ability,No,VANISH!,Several Smoke Grenades Appear.,"""Prophet"" Dan Ability",,
+Corruption ,Curse,Trial of the Worm,-,Vendor Disabled,"The Vendor is disabled",N/A,,
+Cleaner Skill,All,Ability,Yes,VIGOR!,Full Health Restored.,"""Prophet"" Dan Ability",,
+Cleaner Skill,All,Ability,Yes,VITALITY!,+1 Extra Life,"""Prophet"" Dan Ability",,
+Campaign,Defense,Brawn,No,Vitamins,+25 Health ,The Strip,,
+Swarm,Defense ,Brawn,No,Vitamins,+25 Health,Available from Start,,
+Corruption ,Ridden,Ridden,-,Volatile Ridden,These Ridden have developed an Unstable Cyst on their Skull Cavity. Head Trauma will cause them to Explode Violently.,N/A,,
+Corruption,Ridden,Mutation,-,Wailer,This minelayer births Gas Sacs that track any enemies foolish enough to get close. Destory the Gas Sacs before you're overwhelmed.,N/A,,
+Cleaner,Character,Cleaner,Yes,Walker,"Mutations that Walker pings are highlighted and deal 10% reduced damage. +10% Damage. Team Effects: +10 Team Health. Starts with an M4 Carbine, Glock 23, and a Frag Grenade",Available from Start,,
+Campaign,Utility,Discipline,No,Wasteland Chef,Gain the ability to melee food items to create a Gourmet Dinner or a Mediocre Meal. Using the Combat Knife increases your odds of a Gourmet Dinner.,Duffel Bag Reward / River of Blood Expansion,,
+Campaign,Utility ,Discipline ,No,Weapon Scavenger,You can sense nearby Weapons. More weapons spawn,Fort Hope (2),,
+Campaign,Ability,Discipline ,Yes,Weaponsmith,Allows the ability to unbolt attachments from weapons outside of Saferooms. Unbolting attachments costs 400 Copper. Team Effects: Addtional copies of Weaponsmith played reduce its cost by 100 Copper.,The Collectors (Tunnels of Terror),,
+Campaign,Defense ,Brawn,Yes,Well Fed,Team Effects: +10 Team Health,The Clinic (2) / Bot Deck,,
+Swarm,Defense ,Brawn,Yes,Well Fed,Team Effects: +10 Team Health,Available from Start,,
+Campaign,Talent,Brawn,Yes,Well Rested,"Team Effects: +20% Team Overheal, +5% Team Healing Efficiency",The Collectors (Tunnels of Terror),,
+Campaign,Offense,Reflex,No,Widemouth Magwell,"+30% Reload Speed, -5% Damage Resistance",The Stilts,,
+Burn,Utility,Burn,Yes,Windfall,Team Effects: Each Cleaner gains 150 Copper.,Roving Merchants,,
+Campaign,Defense,Brawn,No,Wooden Armor,"+30% Trauma Resistance, -100% Fire Resistance",Grant's Brew House (2),,
+Campaign,Defense,Fortune ,No,Wounded Animal,Kills while at Critical Health recover 1 Health,Starter Deck,,
+Swarm,Defense,Fortune ,No,Wounded Animal,Kills while at Critical Health recover 1 Health,Available from Start,,
