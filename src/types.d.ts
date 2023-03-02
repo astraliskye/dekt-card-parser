@@ -1,6 +1,6 @@
 export type CardStat = {
   effect: string;
-  amount: number;
+  amount: string;
   team: boolean;
 };
 

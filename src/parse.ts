@@ -1,5 +1,4 @@
-import { stringify } from "querystring";
-import type { CardStat, SecondaryEffect } from "./types";
+import { CardStat } from "./types";
 
 export function parseCells(contents: string, delimiter: string): string[][] {
   const rows = contents.split("\r\n");
@@ -28,48 +27,97 @@ export function parseCells(contents: string, delimiter: string): string[][] {
   return result;
 }
 
-export function getCardImageFileName(name: string) {
-  let image;
+export function parseStats(effectString: string): CardStat[] {
+  let parts = effectString.split("Team Effect");
+  let parsingStat: boolean = false;
+  let parsingAmount: boolean = false;
+  let currentAmount: string[] = [];
+  let currentAttribute: string[] = [];
+  let result: CardStat[] = [];
 
+  for (let i = 0; i < parts.length; i++) {
+    for (let j = 0; j < parts[i].length; j++) {
+      if (parts[i].charAt(j) === "-" || parts[i].charAt(j) === "+") {
+        parsingStat = true;
+        parsingAmount = true;
+      }
+
+      if (!parsingStat) continue;
+
+      if (parsingAmount) {
+        if (parts[i].charAt(j) === " ") {
+          parsingAmount = false;
+        } else {
+          currentAmount.push(parts[i].charAt(j));
+        }
+      } else {
+        if (parts[i].charAt(j) === "," || parts[i].charAt(j) === ".") {
+          result.push({
+            effect: currentAttribute.join("").toLowerCase(),
+            amount: currentAmount.join(""),
+            team: i === 0 ? false : true,
+          });
+          currentAttribute = [];
+          currentAmount = [];
+          parsingStat = false;
+        } else {
+          currentAttribute.push(parts[i].charAt(j));
+        }
+      }
+    }
+  }
+
+  if (parsingStat && currentAmount.length !== 0 && currentAttribute.length !== 0) {
+    result.push({
+      effect: currentAttribute.join("").toLowerCase(),
+      amount: currentAmount.join(""),
+      team: parts.length === 1 ? false : true,
+    });
+  }
+
+  return result;
+}
+
+export function getCardImageFileName(name: string) {
   switch (name) {
     case "AI Assistant Module":
-      image = "AIAssistModule";
+      return "AIAssistModule.png";
     case "Experimental Stimulants":
-      image = "ExperimentalStims";
+      return "ExperimentalStims.png";
     case "Large Caliber Rounds":
-      image = "LargeCaliberAmmo";
+      return "LargeCaliberAmmo.png";
     case "Magician's Apprentice":
-      image = "Magician";
+      return "Magician.png";
     case "Suppressing Fire":
-      image = "SuppressiveFire";
+      return "SuppressiveFire.png";
     case "Wasteland Chef":
-      image = "ChefsKnife";
+      return "ChefsKnife.png";
     case "Ugly Chachkies":
-      image = "QuickLearner";
+      return "QuickLearner.png";
     case "Stealthy Passage":
-      image = "Infiltrator";
+      return "Infiltrator.png";
     case "Soften Up":
-      image = "BatterUp";
+      return "BatterUp.png";
     case "Ether Bomb":
-      image = "ShockAndAwe";
+      return "ShockAndAwe.png";
     case "Phosphorous Tipped":
-      image = "Overheat";
+      return "Overheat.png";
     case "Food Scavenger":
-      image = "LunchTime";
+      return "LunchTime.png";
     case "Empowered Assault":
-      image = "ChainReaction";
+      return "ChainReaction.png";
     case "Sonic Disruptor":
-      image = "ConcussiveBlast";
+      return "ConcussiveBlast.png";
     case "Defensive Maneuver":
-      image = "EvasiveAction";
+      return "EvasiveAction.png";
     case "Belligerent":
-      image = "Flawless";
+      return "Flawless.png";
     case "Cleansing Fire":
-      image = "HotStuff";
+      return "HotStuff.png";
     case "Drone Spotter":
-      image = "MotionSensor.png";
+      return "MotionSensor.png";
     default:
-      image = name
+      return name
         .split(" ")
         .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
         .map((word) => {
@@ -85,7 +133,5 @@ export function getCardImageFileName(name: string) {
         })
         .join("")
         .concat(".png");
-
-      return image;
   }
 }
