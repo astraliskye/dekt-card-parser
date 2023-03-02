@@ -1,5 +1,5 @@
 import { readFile, writeFile } from "fs/promises";
-import { parseCells, parseCardStats } from "./parse";
+import { parseCells} from "./parse";
 
 enum Column {
   DeckCategory,
@@ -18,7 +18,7 @@ async function main() {
 
   const result = JSON.stringify(
     parseCells(fileContents, ",")
-      .filter((row) => row[Column.DeckCategory] === "Campaign")
+      .filter((row) => row[Column.DeckCategory].toLowerCase().trim() === "campaign" && row[Column.Type].toLowerCase().trim() !== "stat")
       .map((row) => ({
         name: row[Column.Name],
         type: row[Column.Type],
@@ -30,12 +30,15 @@ async function main() {
         if (index !== -1) card.name = card.name.substring(0, index).trim();
         return card;
       })
-      .map((card) => ({
-        name: card.name,
-        type: card.type,
-        affinty: card.affinity,
-        effects: parseCardStats(card.effects),
-      })),
+      .map((card) => {
+        let result = {
+          name: card.name,
+          type: card.type,
+          affinity: card.affinity
+        }
+
+        return result;
+      }),
     null,
     2
   );

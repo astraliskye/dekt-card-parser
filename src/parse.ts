@@ -1,4 +1,5 @@
-import type { CardStat } from "./types";
+import { stringify } from "querystring";
+import type { CardStat, SecondaryEffect } from "./types";
 
 export function parseCells(contents: string, delimiter: string): string[][] {
   const rows = contents.split("\r\n");
@@ -21,21 +22,6 @@ export function parseCells(contents: string, delimiter: string): string[][] {
       } else {
         current.push(row.charAt(i));
       }
-    }
-  }
-
-  return result;
-}
-
-export function parseCardStats(effects: string): number[] {
-  const result: number[] = [];
-  const parts = effects.split("Team Effects");
-  const nonTeam = parts[0]?.split(" ") || [];
-  const team = parts[1]?.split(" ") || [];
-
-  for (let i = 0; i < nonTeam.length; i++) {
-    if (nonTeam[i].charAt(0) === "+" || nonTeam[i].charAt(0) === "-") {
-      const amount = parseInt(nonTeam[i]);
     }
   }
 
