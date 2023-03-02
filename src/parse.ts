@@ -27,3 +27,65 @@ export function parseCells(contents: string, delimiter: string): string[][] {
 
   return result;
 }
+
+export function getCardImageFileName(name: string) {
+  let image;
+
+  switch (name) {
+    case "AI Assistant Module":
+      image = "AIAssistModule";
+    case "Experimental Stimulants":
+      image = "ExperimentalStims";
+    case "Large Caliber Rounds":
+      image = "LargeCaliberAmmo";
+    case "Magician's Apprentice":
+      image = "Magician";
+    case "Suppressing Fire":
+      image = "SuppressiveFire";
+    case "Wasteland Chef":
+      image = "ChefsKnife";
+    case "Ugly Chachkies":
+      image = "QuickLearner";
+    case "Stealthy Passage":
+      image = "Infiltrator";
+    case "Soften Up":
+      image = "BatterUp";
+    case "Ether Bomb":
+      image = "ShockAndAwe";
+    case "Phosphorous Tipped":
+      image = "Overheat";
+    case "Food Scavenger":
+      image = "LunchTime";
+    case "Empowered Assault":
+      image = "ChainReaction";
+    case "Sonic Disruptor":
+      image = "ConcussiveBlast";
+    case "Defensive Maneuver":
+      image = "EvasiveAction";
+    case "Belligerent":
+      image = "Flawless";
+    case "Cleansing Fire":
+      image = "HotStuff";
+    case "Drone Spotter":
+      image = "MotionSensor.png";
+    default:
+      image = name
+        .split(" ")
+        .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
+        .map((word) => {
+          const result: string[] = [];
+
+          for (const c of word) {
+            if ((c >= "a" && c <= "z") || (c >= "A" && c <= "Z") || (c >= "0" && c <= "9")) {
+              result.push(c);
+            }
+          }
+
+          return result.join("");
+        })
+        .join("")
+        .concat(".png");
+
+      return image;
+  }
+}
