@@ -79,45 +79,65 @@ export function parseStats(effectString: string): CardStat[] {
 }
 
 export function getCardImageFileName(name: string) {
+  let image = "";
+
   switch (name) {
     case "AI Assistant Module":
-      return "AIAssistModule.png";
+      image = "AIAssistModule";
+      break;
     case "Experimental Stimulants":
-      return "ExperimentalStims.png";
+      image = "ExperimentalStims";
+      break;
     case "Large Caliber Rounds":
-      return "LargeCaliberAmmo.png";
+      image = "LargeCaliberAmmo";
+      break;
     case "Magician's Apprentice":
-      return "Magician.png";
+      image = "Magician";
+      break;
     case "Suppressing Fire":
-      return "SuppressiveFire.png";
+      image = "SuppressiveFire";
+      break;
     case "Wasteland Chef":
-      return "ChefsKnife.png";
+      image = "ChefsKnife";
+      break;
     case "Ugly Chachkies":
-      return "QuickLearner.png";
+      image = "QuickLearner";
+      break;
     case "Stealthy Passage":
-      return "Infiltrator.png";
+      image = "Infiltrator";
+      break;
     case "Soften Up":
-      return "BatterUp.png";
+      image = "BatterUp";
+      break;
     case "Ether Bomb":
-      return "ShockAndAwe.png";
+      image = "ShockAndAwe";
+      break;
     case "Phosphorous Tipped":
-      return "Overheat.png";
+      image = "Overheat";
+      break;
     case "Food Scavenger":
-      return "LunchTime.png";
+      image = "LunchTime";
+      break;
     case "Empowered Assault":
-      return "ChainReaction.png";
+      image = "ChainReaction";
+      break;
     case "Sonic Disruptor":
-      return "ConcussiveBlast.png";
+      image = "ConcussiveBlast";
+      break;
     case "Defensive Maneuver":
-      return "EvasiveAction.png";
+      image = "EvasiveAction";
+      break;
     case "Belligerent":
-      return "Flawless.png";
+      image = "Flawless";
+      break;
     case "Cleansing Fire":
-      return "HotStuff.png";
+      image = "HotStuff";
+      break;
     case "Drone Spotter":
-      return "MotionSensor.png";
+      image = "MotionSensor";
+      break;
     default:
-      return name
+      image = name
         .split(" ")
         .map((word) => word.charAt(0).toUpperCase() + word.slice(1))
         .map((word) => {
@@ -131,7 +151,9 @@ export function getCardImageFileName(name: string) {
 
           return result.join("");
         })
-        .join("")
-        .concat(".png");
+        .join("");
+      break;
   }
+
+  return image ? image.concat(".webp") : "";
 }
